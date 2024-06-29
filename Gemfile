@@ -14,6 +14,11 @@ gem "github-pages", group: :jekyll_plugins
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 
+jekyll-remote-theme
+remote_theme : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+
 # gem "jekyll"
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
