@@ -327,7 +327,7 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-minimal_mistakes_skin: "dark"
+#  minimal_mistakes_skin: "dark"
 
 # HTML Compression
 # - http://jch.penibelst.de/
