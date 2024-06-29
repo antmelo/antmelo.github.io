@@ -69,12 +69,7 @@ $code-background-color      : mix(#000, $background-color, 15%);
 $code-background-color-dark : mix(#000, $background-color, 20%);
 $form-background-color      : mix(#000, $background-color, 15%);
 $footer-background-color    : mix($primary-color, #000, 10%);
-$link-color                 : $primary-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $text-color;
-$masthead-link-color-hover  : mix(#fff, $text-color, 20%);
-$navicon-link-color-hover   : mix(#fff, $background-color, 30%);
+
 
 $success-color              : #62c462;
 $warning-color              : #f89406;
@@ -110,13 +105,12 @@ $youtube-color              : #bb0000;
 $xing-color                 : #006567
 
 /* links */
-$link-color                 : $info-color;
+$link-color                 : $primary-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
-
-
+$masthead-link-color        : $text-color;
+$masthead-link-color-hover  : mix(#fff, $text-color, 20%);
+$navicon-link-color-hover   : mix(#fff, $background-color, 30%);
 
 /*
    Breakpoints
