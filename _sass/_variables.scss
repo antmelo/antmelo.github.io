@@ -54,58 +54,34 @@ $sidebar-link-max-width     : 250px;
 /*
    Colors
    ========================================================================== */
-$background-color: #141010 !default;
-$text-color: #fff6fb !default;
-$primary-color: #f21368 !default;
-$border-color: mix(#fff, $background-color, 20%) !default;
-$code-background-color: mix(#000, $background-color, 15%) !default;
-$code-background-color-dark: mix(#000, $background-color, 20%) !default;
-$form-background-color: mix(#000, $background-color, 15%) !default;
-$footer-background-color: mix($primary-color, #000, 10%) !default;
-$link-color: $primary-color !default;
-$link-color-hover: mix(#fff, $link-color, 25%) !default;
-$link-color-visited: mix(#000, $link-color, 25%) !default;
+$background-color: #f3f3f3 !default;
+$text-color: #343434 !default;
+$muted-text-color: #8e8b82 !default;
+$primary-color: #343434 !default;
+$border-color: #e9dcbe !default;
+$footer-background-color: #e9dcbe !default;
+$link-color: #343434 !default;
 $masthead-link-color: $text-color !default;
-$masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
-$navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
+$masthead-link-color-hover: $text-color !default;
+$navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 
-/* neon syntax highlighting (base16) */
-$base00: #ffffff !default;
-$base01: #e0e0e0 !default;
-$base02: #d0d0d0 !default;
-$base03: #b0b0b0 !default;
-$base04: #000000 !default;
-$base05: #101010 !default;
-$base06: #151515 !default;
-$base07: #202020 !default;
-$base08: #ff0086 !default;
-$base09: #fd8900 !default;
-$base0a: #aba800 !default;
-$base0b: #00c918 !default;
-$base0c: #1faaaa !default;
-$base0d: #3777e6 !default;
-$base0e: #ad00a1 !default;
-$base0f: #cc6633 !default;
-
-.author__urls.social-icons .svg-inline--fa,
-.page__footer-follow .social-icons .svg-inline--fa {
-  color: inherit;
-}
-
-/* next/previous buttons */
-.pagination--pager {
-  color: $text-color;
-  background-color: $primary-color;
-  border-color: transparent;
-
-  &:visited {
-    color: $text-color;
-  }
-}
-
-.ais-search-box .ais-search-box--input {
-  background-color: $form-background-color;
-}
+/* dirt syntax highlighting (base16) */
+$base00: #231e18 !default;
+$base01: #302b25 !default;
+$base02: #48413a !default;
+$base03: #9d8b70 !default;
+$base04: #b4a490 !default;
+$base05: #cabcb1 !default;
+$base06: #d7c8bc !default;
+$base07: #e4d4c8 !default;
+$base08: #d35c5c !default;
+$base09: #ca7f32 !default;
+$base0a: #e0ac16 !default;
+$base0b: #b7ba53 !default;
+$base0c: #6eb958 !default;
+$base0d: #88a4d3 !default;
+$base0e: #bb90e2 !default;
+$base0f: #b49368 !default;
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
