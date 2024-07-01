@@ -9,11 +9,11 @@
 # minimal_mistakes_skin: "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "pt-BR"
 title                    : "Antonio Melo"
 title_separator          : "-"
 name                     : &name "Antonio Melo"
-description              : &description "personal description"
+description              : &description "Modesto artista marcial, ciclista nas horas vagas e cientista porque a curiosidade é não-enumerável"
 url                      : https://antmelo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "antmelo/antmelo.github.io"
