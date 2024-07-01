@@ -1,7 +1,6 @@
 # main links links
 main:
-  - title: "Publicações"
-    url: /publications/
+
 
  # - title: "Talks"
  #   url: /talks/    
@@ -14,6 +13,9 @@ main:
         
  # - title: "Blog Posts"
  #   url: /year-archive/
+ 
+  - title: "Publicações"
+    url: /publications/
     
   - title: "CV"
     url: "http://lattes.cnpq.br/0391816886848365"
