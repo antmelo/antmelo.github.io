@@ -104,7 +104,7 @@ $primary-color              : #7a8288; */
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color                 : #52adc8; /* light blue purple */
+$info-color                 : #4f9e53; /* light green purple */
 
 /* brands */
 $employer-color             : #ffffff;
@@ -141,11 +141,11 @@ $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%); */
-$link-color                 : mix(#000, $info-color, 25%) !default;
+$link-color                 : mix(#fff, $info-color, 25%) !default;
 $link-color-hover           : mix(#000, $link-color, 35%) !default;
 $link-color-visited         : mix(#9c310e, $link-color, 45%) !default;
-$masthead-link-color        : mix(#fff, $primary-color, 50%) !default; 
-$masthead-link-color-hover  : mix(#9a9c59, $primary-color, 25%) !default; 
+$masthead-link-color        : mix(#fff, $primary-color, 70%) !default; 
+$masthead-link-color-hover  : mix(#fff, $primary-color, 25%) !default; 
 
 /*
    Breakpoints
