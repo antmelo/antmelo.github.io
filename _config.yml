@@ -26,7 +26,7 @@ author:
   avatar           : "pencil_sketch_1460325811596.jpg"
   name             : "Prof. Me. Antonio Melo"
   pronouns         : # example: "she/her"  
-  bio              : "Cientista Matemático <br> <br> Professor Assistente do Instituto Acadêmico de Ciências Tecnológicas da <a style='color: blue;' href='https://ueg.br'>Universidade Estadual de Goiás</a> & <a style='color: yellow;' href='https://www.ueg.br/posse/'>no Campus de Posse</a> e pesquisador na área de Matemática com interesse em Álgebra e Sistemas Dinâmicos aplicados"
+  bio              : "Cientista Matemático <br> <br> Professor Assistente do Instituto Acadêmico de Ciências Tecnológicas da <a style='color: cyan;' href='https://ueg.br'>Universidade Estadual de Goiás</a> no <a style='color: turquoise;' href='https://www.ueg.br/posse/'>Campus de Posse</a> e pesquisador na área de Matemática com interesse em <a style='color: turquoise;' href='https://pt.wikipedia.org/wiki/%C3%81lgebra_abstrata'>Álgebra</a> e <a style='color: powderblue;' href='https://pt.wikipedia.org/wiki/Sistema_din%C3%A2mico'>Sistemas Dinâmicos</a> aplicados"
   employer         : "Universidade Estadual de Goiás"
   location         : "Posse/GO"
   uri              : "https://www.ueg.br/posse/"
