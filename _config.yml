@@ -26,7 +26,7 @@ author:
   avatar           : "pencil_sketch_1460325811596.jpg"
   name             : "Prof. Antonio"
   pronouns         : # example: "she/her"  
-  bio              : "Professor Assistente do Instituto Acadêmico de Ciências Tecnológicas na área de Matemática"
+  bio              : "Professor Assistente do Instituto Acadêmico de Ciências Tecnológicas e pesquisador na área de Matemática com interesse em Álgebra e Sistemas Dinâmicos aplicados"
   location         : "Posse/GO"
   employer         : "Universidade Estadual de Goiás"
   uri              : "https://www.ueg.br/posse/"
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "antmelo"
+  github           : # Username "antmelo"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
