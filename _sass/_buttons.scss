@@ -23,7 +23,7 @@
   cursor: pointer;
 
   &:hover {
-    background-color: mix(white, #000, 20%);
+    background-color: mix(white, #000, 50%);
   }
 
   .icon {
@@ -31,7 +31,7 @@
   }
 
   .icon + .hidden {
-    margin-left: -0.5em; /* override for hidden text*/
+    margin-left: -2.5em; /* override for hidden text*/
   }
 
   /* fills width of parent container */
@@ -48,13 +48,13 @@
   /* for dark backgrounds */
 
   &--inverse {
-    color: $gray !important;
+    color: $darker-gray !important;
     border: 1px solid $light-gray !important; /* override*/
     background-color: #fff;
 
     &:hover {
       color: #fff !important;
-      border-color: $gray;
+      border-color: $dark-gray;
     }
   }
 
@@ -128,7 +128,7 @@
       background-color: $color;
 
       &:hover {
-        background-color: mix(#000, $color, 20%);
+        background-color: mix(#000, $color, 50%);
       }
     }
   }
