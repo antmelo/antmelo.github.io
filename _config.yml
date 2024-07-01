@@ -10,7 +10,7 @@
 
 # Basic Site Settings
 locale                   : "pt-BR"
-title                    : "Início                                    |"
+title                    : "Início"
 title_separator          : "-"
 name                     : &name "Antonio Melo"
 description              : &description "Modesto artista marcial, ciclista nas horas vagas e cientista porque a curiosidade é não-enumerável"
