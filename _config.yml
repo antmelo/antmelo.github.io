@@ -10,7 +10,7 @@
 
 # Basic Site Settings
 locale                   : "pt-BR"
-title                    : "Antonio Melo"
+title                    : "Início"
 title_separator          : "-"
 name                     : &name "Antonio Melo"
 description              : &description "Modesto artista marcial, ciclista nas horas vagas e cientista porque a curiosidade é não-enumerável"
@@ -24,7 +24,7 @@ repository               : "antmelo/antmelo.github.io"
 author:
   # Biographic information
   avatar           : "pencil_sketch_1460325811596.jpg"
-  name             : "Prof. Antonio"
+  name             : "Prof. Me. Antonio Melo"
   pronouns         : # example: "she/her"  
   bio              : "Professor Assistente do Instituto Acadêmico de Ciências Tecnológicas e pesquisador na área de Matemática com interesse em Álgebra e Sistemas Dinâmicos aplicados"
   location         : "Posse/GO"
