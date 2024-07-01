@@ -23,13 +23,13 @@ repository               : "antmelo/antmelo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/DSC06253m.jpg"
+  avatar           : "pencil_sketch_1460325811596.jpg"
   name             : "Prof. Antonio"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Professor Assistente do Instituto Acadêmico de Ciências Tecnológicas na área de Matemática"
   location         : "Posse/GO"
-  employer         : "Goiás State University"
-  uri              : # URL
+  employer         : "Universidade Estadual de Goiás"
+  uri              : "https://www.ueg.br/posse/"
   email            : "antonio@ueg.br" 
 
   # Academic websites
