@@ -20,5 +20,5 @@ main:
   - title: "CV"
     url: "http://lattes.cnpq.br/0391816886848365"
     
-  - title: "Guia"
-    url: /markdown/
+  # - title: "Guia"
+  #  url: /markdown/
