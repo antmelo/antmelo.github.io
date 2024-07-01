@@ -8,7 +8,7 @@
   border-bottom: 1px solid $border-color;
   height: $masthead-height;
   top: 0;
-  left: 4em; 
+  left: 16em; 
   width: 100%;
 
   -webkit-animation: intro 0.3s both;
@@ -54,6 +54,7 @@
 
   &--lg {
     padding-right: 0;
+    padding-left: 4em;
     font-weight: 700;
   }
 }
