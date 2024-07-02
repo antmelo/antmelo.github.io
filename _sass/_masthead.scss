@@ -4,8 +4,8 @@
 
 .masthead {
   position: fixed;
-  background: white;
-  border-bottom: 1px solid $border-color;
+  background: $background-color;
+  border-bottom: 1px dotted $border-color;
   height: $masthead-height;
   top: 0;
   width: 100%;
@@ -52,7 +52,7 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 7em;
+    padding-right: 6.6em;
     font-weight: 700;
   }
 }
