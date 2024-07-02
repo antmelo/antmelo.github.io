@@ -50,6 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
+  linkedin         : "antonio-melo-46868670"
   bluesky          : # Replace this with you Bluesky username
   facebook         : "tony.melo.180"
   flickr           : # Username
@@ -59,7 +60,6 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "antonio-melo-46868670"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
