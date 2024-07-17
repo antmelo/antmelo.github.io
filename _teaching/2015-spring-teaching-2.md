@@ -15,8 +15,6 @@ Option 4. The markdown way
 
 The last option is to use markdown to add a class and use CSS to style the link as a button.
 
-<kbd> href="http://www.google.com" <br> Title do link <br> </kbd>
-
 Lorem ipsum dolor sit amet.
 
 [Click me](http://www.google.com){: .btn .btn--success}
