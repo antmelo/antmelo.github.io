@@ -16,7 +16,7 @@
   font-size: $type-size-6;
   font-weight: bold;
   text-align: center;
-  text-decoration: none;
+  text-decoration: none !important;
   background-color: $primary-color;
   border: 0 !important;
   border-radius: $border-radius;
