@@ -8,8 +8,7 @@ date: 2024-05-21
 location: "Posse, Goiás"
 ---
 
-## Ementa:
-
+## Ementa
 Estatística Inferencial. Estimadores e Estimativas. Distribuição Amostral. Estimação Intervalar. Testes de Hipóteses. Testes Não Paramétricos. Introdução
 a Análise de Variância.
 
