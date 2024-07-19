@@ -4,7 +4,7 @@ collection: teaching
 type: "Sistemas para Internet (2024-2)"
 permalink: /teaching/2024-2-fundamentos
 venue: "UEG"
-date: 2024-08-05
+date: 2024-08-08
 location: "Posse, Goiás"
 ---
 
