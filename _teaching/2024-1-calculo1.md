@@ -9,7 +9,6 @@ location: "Posse, Goiás"
 ---
 
 ## Ementa
-
 Funções. Limite, noções sobre limite e continuidade. Derivadas. Regra da cadeia. Aplicações da Derivada, Taxa de Variação, Máximos e Mínimos. Problemas de
 Otimização.
 
