@@ -72,7 +72,6 @@ Abaixo vão 12 razões — algumas retiradas e adaptadas deste [site](http://web
 7. Não há incompatibilidade de versões: se você criou um arquivo TeX em 1995, conseguirá abri-lo perfeitamente hoje.
 
 8. LaTeX oferece uma maneira independente de lidar com bibliografias. Nada de comprar EndNote ou algo parecido: toda a sua biblioteca de referências é mantida em um simples arquivo, ao qual você conecta citações.
-> [!TIP]
 > **Bônus:** você pode facilmente reunir suas referências com [Zotero](https://www.zotero.org/) e apenas exportá-las em BibTeX para seu trabalho.
 
 9. Documentos em TeX são pequenos e rápidos.
