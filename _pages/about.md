@@ -75,13 +75,13 @@ Abaixo vão 12 razões — algumas retiradas e adaptadas deste [site](http://web
 > [!TIP]
 > **Bônus:** você pode facilmente reunir suas referências com [Zotero](https://www.zotero.org/) e apenas exportá-las em BibTeX para seu trabalho.
 
-11. Documentos em TeX são pequenos e rápidos.
+9. Documentos em TeX são pequenos e rápidos.
 
-12. LaTeX é o padrão científico/acadêmico em diversas áreas do conhecimento — e nos maiores centros acadêmicos do mundo.
+10. LaTeX é o padrão científico/acadêmico em diversas áreas do conhecimento — e nos maiores centros acadêmicos do mundo.
 
-13. LaTeX gera documentos mais aprimorados esteticamente, com menos hifenizações e menos espaçamentos exagerados entre palavras.
+11. LaTeX gera documentos mais aprimorados esteticamente, com menos hifenizações e menos espaçamentos exagerados entre palavras.
 
-14. Seu pdf é gerado com uma estrutura interna, em que você acessa seções via links — isso é feito automaticamente com um pacote.
+12. Seu pdf é gerado com uma estrutura interna, em que você acessa seções via links — isso é feito automaticamente com um pacote.
 
 Para estudantes de graduação, há duas opções para produzir seus documentos:
 
