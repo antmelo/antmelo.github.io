@@ -10,9 +10,30 @@ redirect_from:
 
 Se você é estudante de uma das minhas turmas, não deixe de conferir a seção [Disciplinas](https://antmelo.github.io/teaching/){: .btn .btn--success} para eventuais atualizações de conteúdo. Se você já é mais experiente e quer se entreter ou apenas passar o tempo, talvez a seção [Publicações](https://antmelo.github.io/publications/){: .btn .btn--success} seja interessante.
 
-## Independente do seu nível, minha primeira dica é: aprenda $\LaTeX$ !
+## Independente do seu nível, minha primeira dica é: aprenda $$\LaTeX$$ !
 
-$\LaTeX$ é uma implementação da linguagem TeX, criada para perfeita simbologia matemática, e por isso, é um sistema de preparação de documentos amplamente utilizado por pessoas na área das ciências e engenharias. Diferentemente de editores como Word, $\LaTeX$ não apresenta uma interface amigável onde se vê a edição em tempo real.  
+$$\LaTeX$$ é uma implementação da linguagem TeX, criada para perfeita simbologia matemática, e por isso, é um sistema de preparação de documentos amplamente utilizado por pessoas na área das ciências e engenharias. Diferentemente de editores como Word, $\LaTeX$ não apresenta uma interface amigável onde se vê a edição em tempo real. Mas há vantagens em fazer isso
+
+$$
+\begin{aligned}
+  & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
+  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
+  & (x_1, \ldots, x_n) \left( \begin{array}{ccc}
+      \phi(e_1, e_1) & \cdots & \phi(e_1, e_n) \\
+      \vdots & \ddots & \vdots \\
+      \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)
+    \end{array} \right)
+  \left( \begin{array}{c}
+      y_1 \\
+      \vdots \\
+      y_n
+    \end{array} \right)
+\end{aligned}
+$$
+
+
+
+
 inline: $$f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$$
 display mode (centered):
 
