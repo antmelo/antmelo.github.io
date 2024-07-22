@@ -2,11 +2,11 @@
 title: "Redes de Sistemas Dinâmicos Acoplados com Estrutura Gradiente ou Hamiltoniana"
 collection: publications
 permalink: /publication/2020-03-03-dissertation
-excerpt: 'Apresentação sobre estruturas algébricas e sua relação com simetria e como isso se manifesta em dinâmica.'
+excerpt: 'Dissertação apresentada ao PPGMAT para obtenção do título de Mestre.'
 date: 2020-03-03
 venue: 'Dissertação de Mestrado, UNIFESP'
-paperurl: 'http://academicpages.github.io/files/melo2020.pdf'
-citation: 'MELO, Antonio. &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. (2020).'
+paperurl: 'http://antmelo.github.io/files/melo2020.pdf'
+citation: 'MELO, Antonio. <b>Redes de Sistemas Dinâmicos Acoplados com Estrutura Gradiente ou Hamiltoniana</b>. <i>Dissertação de Mestrado, UNIFESP</i>. (2020).'
 ---
 
 Uma rede de sistemas dinâmicos é equipada com um conjunto canônico de observáveis para os estados de seus nós individuais. Além disso, a forma da EDO subjacente é limitada pela topologia da rede e
