@@ -2,7 +2,7 @@
 permalink: /
 title: "Saudações!"
 author_profile: true
-katex: true
+katex: True
 redirect_from: 
   - /about/
   - /about.html
@@ -13,6 +13,12 @@ Se você é estudante de uma das minhas turmas, não deixe de conferir a seção
 ## Independente do seu nível, minha primeira dica é: aprenda $\LaTeX$ !
 
 $\LaTeX$ é uma implementação da linguagem TeX, criada para perfeita simbologia matemática, e por isso, é um sistema de preparação de documentos amplamente utilizado por pessoas na área das ciências e engenharias. Diferentemente de editores como Word, $\LaTeX$ não apresenta uma interface amigável onde se vê a edição em tempo real.  
+inline: $$f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$$
+display mode (centered):
+
+$$f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$$
+
+Option 4. The markdown way
 
 Por que eu deveria abandonar algo simples e adotar algo mais complexo?
 
