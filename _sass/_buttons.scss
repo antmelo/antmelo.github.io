@@ -91,7 +91,7 @@
     background-color: $success-color;
 
     &:hover {
-      background-color: mix(#000, $success-color, 20%);
+      background-color: mix(black, $success-color, 40%);
     }
   }
 
