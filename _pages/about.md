@@ -160,6 +160,7 @@ o que produz
  
  $$f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$$
  </div>
-
+ 
+<br> 
  
 Agora, se o `katex` foi propriamente implementado, você pode ver que símbolos HTML são criados com a correta fonte $\LaTeX$.
