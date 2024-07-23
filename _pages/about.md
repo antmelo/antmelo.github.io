@@ -2,7 +2,6 @@
 permalink: /
 title: "Saudações!"
 author_profile: true
-katex: True
 redirect_from: 
   - /about/
   - /about.html
