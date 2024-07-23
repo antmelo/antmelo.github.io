@@ -154,7 +154,7 @@ o que produz
 
  <div class="btn--light-outline">
 
- em linha: $f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$ \\
+ em linha: $f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$ <br> 
  
  display mode (centralizado):
  
@@ -162,4 +162,4 @@ o que produz
  </div>
 
  
-Agora se você implementou `katex` propriamente, você pode ver que símbolos HTML são criados com a correta fonte $\LaTeX$.
+Agora, se o `katex` foi propriamente implementado, você pode ver que símbolos HTML são criados com a correta fonte $\LaTeX$.
