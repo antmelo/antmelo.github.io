@@ -94,9 +94,9 @@ Outra opção interessante é o [Overleaf](https://pt.overleaf.com/) que é uma 
 
 ## Como $\LaTeX$ foi implementado nesta página?
 
-Websites que usam [Jekyll](https://jekyllrb.com/) costumam ter suporte ao modo matemático usando MathJax, o mesmo engine usando em sites o [Mathoverflow](https://mathoverflow.net) mas dentre as alternativas para transformar `math/tex`scripts em $\LaTeX$ como aqui, a mais rápida é utilizando $\KaTeX$.
+Websites que usam [Jekyll](https://jekyllrb.com/) costumam ter suporte ao modo matemático usando [MathJax](https://www.mathjax.org/), o mesmo engine usando em sites o [Mathoverflow](https://mathoverflow.net) mas dentre as alternativas para transformar `math/tex` scripts em $\LaTeX$ como aqui, a mais rápida é utilizando [ $\KaTeX$ ](https://katex.org/).
 
-Isso pode ser obtido [assim](https://github.com/rohanchandra/type-theme/blob/c8138f98f5d3d058d6b1467c72b5ab63b51d2eb5/js/katex_init.js) ou [assim](https://xuc.me/blog/katex-and-jekyll/#). O jeito mais fácil a meu ver é usando a extensão auto-render do $\KaTeX$ da seguinte forma:
+Isso pode ser obtido [assim](https://github.com/rohanchandra/type-theme/blob/c8138f98f5d3d058d6b1467c72b5ab63b51d2eb5/js/katex_init.js) ou [assim](https://xuc.me/blog/katex-and-jekyll/#). O jeito mais fácil, a meu ver, é usando a extensão auto-render do $\KaTeX$ da seguinte forma:
 
 ### Passo 1: Adicione $\KaTeX$
 
@@ -142,7 +142,7 @@ Em cada página que você deseja usar $\KaTeX$, adicione `katex: true` no preamb
 ```latex
 ---
 layout: post
-title: KaTeX with Jekyll
+title: Usando KaTeX com Jekyll
 katex: true
 ---
 em linha: $f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$
