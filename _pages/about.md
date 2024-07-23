@@ -152,7 +152,7 @@ $$f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$$
 ```
 o que produz
 
- <div class="btn--light-outline">
+ <div class="btn--block">
 
  em linha: $f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$ <br> 
  
