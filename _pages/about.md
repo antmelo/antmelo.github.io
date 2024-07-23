@@ -11,10 +11,10 @@ redirect_from:
 
 Se você é estudante de uma das minhas turmas, não deixe de conferir a seção [Disciplinas](https://antmelo.github.io/teaching/){: .btn .btn--success} para eventuais atualizações de conteúdo. Se você já é mais experiente e quer se entreter ou apenas passar o tempo, talvez a seção [Publicações](https://antmelo.github.io/publications/){: .btn .btn--success} seja interessante.
 
-## Independente do seu nível, minha primeira dica é: aprenda $$\LaTeX$$ !
+## Independente do seu nível, minha primeira dica é: aprenda $$LaTeX$$ !
 
-$$\LaTeX$$ é uma implementação da linguagem TeX, criada para perfeita simbologia matemática, e por isso, é um sistema de preparação de documentos amplamente utilizado por pessoas na área das ciências e engenharias. Diferentemente de editores como Word, $$\LaTeX$$ não apresenta uma interface amigável onde se vê a edição em tempo real. Mas há vantagens em fazer isso:
-```latex
+$$\LaTeX$$ é uma implementação da linguagem TeX, criada para perfeita simbologia matemática, e por isso, é um sistema de preparação de documentos amplamente utilizado por pessoas na área das ciências e engenharias. Diferentemente de editores como Word, $$LaTeX$$ não apresenta uma interface amigável onde se vê a edição em tempo real. Mas há vantagens em fazer isso:
+```R
 $$
 \begin{aligned}
   & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
@@ -91,5 +91,5 @@ Para estudantes de graduação, há duas opções para produzir seus documentos:
 
 E não, você não vai precisar inventar a roda do zero, pois há vários modelos prontos na internet para serem adaptados às suas necessidades. Por exemplo, na página da [abnTeX](https://www.abntex.net.br/) há uma seção de download dos modelos canônicos onde você pode encontrar modelos para [artigos](http://mirrors.ctan.org/macros/latex/contrib/abntex2/doc/examples/abntex2-modelo-artigo.pdf), [livros](http://mirrors.ctan.org/macros/latex/contrib/abntex2/doc/examples/abntex2-modelo-livro.pdf), [projetos de pesquisa](https://www.abntex.net.br/) e [trabalhos acadêmicos de conclusão de curso](https://linorg.usp.br/CTAN/macros/latex/contrib/abntex2/doc/examples/abntex2-modelo-trabalho-academico.pdf) devidamente organizados e formatados dentro das normas da ABNT.
 
-Outra opção interessante é o [Overleaf](https://pt.overleaf.com/) que é uma plataforma de edição em $$\LaTeX$$ totalmente online e que, além de ter uma seção repleta de [modelos](https://pt.overleaf.com/latex/templates) prontos para serem editados e conta gratuita, também disponibiliza um bom [tutorial](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) em inglês de como usar os comandos básicos e demais personalizações do sistema.
+Outra opção interessante é o [Overleaf](https://pt.overleaf.com/) que é uma plataforma de edição em $$LaTeX$$ totalmente online e que, além de ter uma seção repleta de [modelos](https://pt.overleaf.com/latex/templates) prontos para serem editados e conta gratuita, também disponibiliza um bom [tutorial](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) em inglês de como usar os comandos básicos e demais personalizações do sistema.
   
