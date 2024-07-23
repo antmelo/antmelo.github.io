@@ -139,7 +139,7 @@ No seu  `_includes/head.html`, adicione:
 
 Em cada página que você deseja usar $\KaTeX$, adicione `katex: true` no preambulo como por exemplo:
 
-```
+```latex
 ---
 layout: post
 title: KaTeX with Jekyll
