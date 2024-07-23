@@ -5,7 +5,7 @@ permalink: /publication/2022-04-27-encbiomat
 excerpt: 'Apresentação no 4º Encontro de Biomatemática (EncBioMat).'
 date: 2022-04-27
 venue: '4º Encontro de Biomatemática realizado no CEFET-RJ campus Maracanã'
-slideurl: 'http://antmelo.github.io/files/IsingCEFET2021.pdf'
+slidesurl: 'http://antmelo.github.io/files/IsingCEFET2021.pdf'
 citation: 'MELO, Antonio. <b>Formação de padrões: do modelo de Ising na biologia à dinâmica de redes hamiltonianas</b>. <i>4º Encontro de Biomatemática, CEFET-RJ</i>. (2022).'
 ---
 
