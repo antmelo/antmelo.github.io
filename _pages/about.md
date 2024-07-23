@@ -1,8 +1,7 @@
 ---
 permalink: /
-layout: post
 title: "Saudações!"
-katex: True
+katex: true
 author_profile: true
 redirect_from: 
   - /about/
@@ -77,9 +76,9 @@ Abaixo vão 12 razões — algumas retiradas e adaptadas deste [site](http://web
 
 9. Documentos em TeX são pequenos e rápidos.
 
-10. LaTeX é o padrão científico/acadêmico em diversas áreas do conhecimento — e nos maiores centros acadêmicos do mundo.
+10. $$\LaTeX$$ é o padrão científico/acadêmico em diversas áreas do conhecimento — e nos maiores centros acadêmicos do mundo.
 
-11. LaTeX gera documentos mais aprimorados esteticamente, com menos hifenizações e menos espaçamentos exagerados entre palavras.
+11. $$\LaTeX$$ gera documentos mais aprimorados esteticamente, com menos hifenizações e menos espaçamentos exagerados entre palavras.
 
 12. Seu pdf é gerado com uma estrutura interna, em que você acessa seções via links — isso é feito automaticamente com um pacote.
 
@@ -87,7 +86,7 @@ Para estudantes de graduação, há duas opções para produzir seus documentos:
 
 + Tornar-se um usuário sofisticado de Word (ou similar). Minimamente, conheça bem os estilos do Word, numeração automática de seções, referências entre figuras, exemplos e seções. Além disso, você precisará saber utilizar muito bem softwares como EndNote, para lidar com bibliografias e outros elementos.
 
-+ Aprender a usar LaTeX, um sistema excelente de compilação de texto que cria documentos acadêmicos com um alto padrão de qualidade. 
++ Aprender a usar $$\LaTeX$$, um sistema excelente de compilação de texto que cria documentos acadêmicos com um alto padrão de qualidade. 
 
 E não, você não vai precisar inventar a roda do zero, pois há vários modelos prontos na internet para serem adaptados às suas necessidades. Por exemplo, na página da [abnTeX](https://www.abntex.net.br/) há uma seção de download dos modelos canônicos onde você pode encontrar modelos para [artigos](http://mirrors.ctan.org/macros/latex/contrib/abntex2/doc/examples/abntex2-modelo-artigo.pdf), [livros](http://mirrors.ctan.org/macros/latex/contrib/abntex2/doc/examples/abntex2-modelo-livro.pdf), [projetos de pesquisa](https://www.abntex.net.br/) e [trabalhos acadêmicos de conclusão de curso](https://linorg.usp.br/CTAN/macros/latex/contrib/abntex2/doc/examples/abntex2-modelo-trabalho-academico.pdf) devidamente organizados e formatados dentro das normas da ABNT.
 
