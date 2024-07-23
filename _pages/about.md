@@ -13,8 +13,8 @@ Se você é estudante de uma das minhas turmas, não deixe de conferir a seção
 
 ## Independente do seu nível, minha primeira dica é: aprenda $$LaTeX$$ !
 
-$$\LaTeX$$ é uma implementação da linguagem TeX, criada para perfeita simbologia matemática, e por isso, é um sistema de preparação de documentos amplamente utilizado por pessoas na área das ciências e engenharias. Diferentemente de editores como Word, $$LaTeX$$ não apresenta uma interface amigável onde se vê a edição em tempo real. Mas há vantagens em fazer isso:
-```R
+$$LaTeX$$ é uma implementação da linguagem TeX, criada para perfeita simbologia matemática, e por isso, é um sistema de preparação de documentos amplamente utilizado por pessoas na área das ciências e engenharias. Diferentemente de editores como Word, $$LaTeX$$ não apresenta uma interface amigável onde se vê a edição em tempo real. Mas há vantagens em fazer isso:
+```python
 $$
 \begin{aligned}
   & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
