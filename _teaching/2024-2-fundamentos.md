@@ -25,3 +25,7 @@ lógicas; Lógica de predicados. Aplicações de lógica de predicados.
 6. DANTE, L.R., Matemática contexto e aplicações. - São Paulo: Ática, 2008.
 7. STEIN, C.; DRYSDALE, R. L.; BOGART, K. Matemática Discreta para Ciência da Computação. São Paulo: Pearson Education do Brasil, 2013.
 8. MENEZES, Paulo B. Matemática Discreta para Computação e Informática - V16 - UFRGS. 4a ed. Porto Alegre: Bookman, 2013.
+
+
+   O texto base do curso será:
+   GOMIDE, A.; STOLFI, J. ​**Elementos de Matemática Discreta para Computação**.​ UNICAMP, 2014. Disponível [aqui](https://antmelo.github.io/files/livro-stolfi.pdf){: .btn}
