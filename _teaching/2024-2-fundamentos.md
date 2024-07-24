@@ -27,5 +27,8 @@ lógicas; Lógica de predicados. Aplicações de lógica de predicados.
 8. MENEZES, Paulo B. Matemática Discreta para Computação e Informática - V16 - UFRGS. 4a ed. Porto Alegre: Bookman, 2013.
 
 
-   O texto base do curso será:
-   GOMIDE, A.; STOLFI, J. ​**Elementos de Matemática Discreta para Computação**.​ UNICAMP, 2014. Disponível [aqui](https://antmelo.github.io/files/livro-stolfi.pdf){: .btn}
+ ###  O texto base do curso será:
+ 
+   > GOMIDE, A.; STOLFI, J. ​**Elementos de Matemática Discreta para Computação**.​ UNICAMP, 2014. 
+   
+   Disponível na íntegra [aqui](https://antmelo.github.io/files/livro-stolfi.pdf){: .btn}.
