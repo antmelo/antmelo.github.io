@@ -30,5 +30,15 @@ lógicas; Lógica de predicados. Aplicações de lógica de predicados.
 ### O texto base do curso será:
  
    > GOMIDE, A.; STOLFI, J. ​**Elementos de Matemática Discreta para Computação**.​ UNICAMP, 2014. 
+
+### Materiais disponíveis para Download
+
+| Link            | Adicionado em   |              Descrição                                                |
+| --------         | ------ | ------------------------------------------------------------ |
+| [Livro Elementos](https://antmelo.github.io/files/livro-elementos.pdf){: .btn}   | 5/8  | Texto padrão usado na maior parte do curso      |
+| [Capítulo Sistemas digitais](https://antmelo.github.io/files/sistemas-numeracao.pdf){: .btn}   | 21/8   | Trecho sobre Sistemas Digitais e a base binária a nível de ensino médio             |
+| [Capítulo Sistemas e códigos](https://antmelo.github.io/files/sistemas-codigos.pdf){: .btn}    | 21/8   | Trecho sobre Sistemas de Numeração e códigos que detalha a conversão entre decimal, binário e hexadecimal com aplicações            |
+
+
    
-   Disponível na íntegra [aqui](https://antmelo.github.io/files/livro-stolfi.pdf){: .btn}.
+   Dúvidas, comentários ou observações podem ser feitas por email :bowtie:.
