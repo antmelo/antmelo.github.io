@@ -42,4 +42,4 @@ lógicas; Lógica de predicados. Aplicações de lógica de predicados.
 
 
    
-   Dúvidas, comentários ou observações podem ser feitas por email &#129488;.
+   Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
