@@ -38,6 +38,7 @@ lógicas; Lógica de predicados. Aplicações de lógica de predicados.
 | [Livro Elementos de Matemática](https://antmelo.github.io/files/livro-elementos.pdf){: .btn}   | 5/8  | Texto padrão usado na maior parte do curso      |
 | [Capítulo Sistemas digitais](https://antmelo.github.io/files/sistemas-numeracao.pdf){: .btn}   | 21/8   | Trecho sobre Sistemas Digitais e a base binária a nível de ensino médio             |
 | [Capítulo Sistemas e códigos](https://antmelo.github.io/files/sistemas-codigos.pdf){: .btn}    | 21/8   | Trecho sobre Sistemas de Numeração e códigos que detalha a conversão entre decimal, binário e hexadecimal com aplicações            |
+|     | Em breve   | Lista de exercícios sobre conjuntos e conversão entre decimal, binário e hexadecimal            |
 
 
    
