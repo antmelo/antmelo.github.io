@@ -43,3 +43,7 @@ lógicas; Lógica de predicados. Aplicações de lógica de predicados.
 
    
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
+
+## Projeto de Ensino - Revivendo Matemática
+
+Reuniões aos sábados às 14h através do link [https://meet.google.com/gnu-npcy-ooe](https://meet.google.com/gnu-npcy-ooe)
