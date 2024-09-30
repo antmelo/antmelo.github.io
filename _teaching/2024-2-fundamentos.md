@@ -48,6 +48,8 @@ lógicas; Lógica de predicados. Aplicações de lógica de predicados.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a_PDPUmCZSI?si=Bgl8dZX485VtSjgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> &nbsp;&nbsp;&nbsp;
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JVdRaJ5__tc?si=IHdpJQ-rdKvRSzJe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> &nbsp;&nbsp;&nbsp;
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vctnbk0RWVY?si=SdXttgThEuq_SxV8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> &nbsp;&nbsp;&nbsp;
    
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
 
