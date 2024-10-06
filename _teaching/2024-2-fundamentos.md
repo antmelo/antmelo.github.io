@@ -43,13 +43,10 @@ lógicas; Lógica de predicados. Aplicações de lógica de predicados.
 | [Lista 2 - Lógica proposicional](https://antmelo.github.io/files/Lista2_Logica.pdf){: .btn}   | 21/9   | Lista de exercícios sobre operadores, tabelas-verdade, equivalencias e demais abordagens lógicas            |
 
 &nbsp;&nbsp;&nbsp;
-<iframe width="560" height="315" src="https://www.youtube.com/embed/THieoMyTrLs?si=-rv72zk0a0t70Xne" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> &nbsp;&nbsp;&nbsp;
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1jAOBgL6lbg?si=MMP8JfAU49F1Q1rz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> &nbsp;&nbsp;&nbsp;
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a_PDPUmCZSI?si=Bgl8dZX485VtSjgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> &nbsp;&nbsp;&nbsp;
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3Qyl25a1h8?si=L56g-DXIW_Py5e8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> &nbsp;&nbsp;&nbsp;
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JVdRaJ5__tc?si=IHdpJQ-rdKvRSzJe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> &nbsp;&nbsp;&nbsp;
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vctnbk0RWVY?si=SdXttgThEuq_SxV8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> &nbsp;&nbsp;&nbsp;
    
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
 
