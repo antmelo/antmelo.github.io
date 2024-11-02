@@ -50,6 +50,12 @@ lógicas; Lógica de predicados. Aplicações de lógica de predicados.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C3Qyl25a1h8?si=L56g-DXIW_Py5e8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> &nbsp;&nbsp;&nbsp;
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gcgyBrlH2Cc?si=9-llUAl8dn0awYOB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> &nbsp;&nbsp;&nbsp;
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vWskxT8JcQ8?si=JkonEZ-Tuk8svP4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> &nbsp;&nbsp;&nbsp;
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5zo2DM8XGs?si=hnqPniyWTngqALiG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> &nbsp;&nbsp;&nbsp;
+
    
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
 
