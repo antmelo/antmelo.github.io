@@ -44,6 +44,7 @@ lógicas; Lógica de predicados. Aplicações de lógica de predicados.
 | [Lista 3 - Métodos de Demonstração](https://antmelo.github.io/files/Lista3_Demons.pdf){: .btn}   | 7/10   | Lista de exercícios sobre os principais métodos de demonstração usados em construções lógicas na matemática           |
 | [Apostila da OBMEP sobre indução](http://www.obmep.org.br/docs/apostila4.pdf){: .btn}   | 23/10   | Material da OBMEP destinado a apresentar as ideias de Indução Matemática para CRIANÇAS do 6º ao 9º ano do Fundamental (Níveis 1 e 2) e Ensino Médio (Nível 3)           |
 | [Lista 3 - Demonstrações resolvida](https://antmelo.github.io/files/FundL3solv.pdf){: .btn}   | 1/11   | Proposta de solução da Lista de exercícios sobre métodos de demonstração           |
+| [Lista 4 - Relações e propriedades](https://antmelo.github.io/files/Lista3_Relacoes.pdf){: .btn}   | 3/11   | Lista de exercícios sobre os conceitos e propriesdades a cerca de relações entre conjuntos           |
 
 &nbsp;&nbsp;&nbsp;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1jAOBgL6lbg?si=MMP8JfAU49F1Q1rz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> &nbsp;&nbsp;&nbsp;
