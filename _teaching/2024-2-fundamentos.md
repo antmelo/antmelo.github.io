@@ -47,7 +47,7 @@ lógicas; Lógica de predicados. Aplicações de lógica de predicados.
 | [Lista 4 - Relações e propriedades](https://antmelo.github.io/files/Lista4_Relacoes.pdf){: .btn}   | 3/11   | Lista de exercícios sobre os conceitos e propriesdades a cerca de relações entre conjuntos           |
 | [Lista 5 - Funções, Sequências e Recorrências](https://antmelo.github.io/files/Lista5_Funcoes.pdf){: .btn}   | 11/11   | Lista de exercícios sobre os conceitos e propriesdades a cerca de Funções, Sequências e a noção de Recursividade          |
 | [Slides - Contagem e Grafos (último tópico)](https://antmelo.github.io/files/AulaFinal_Contagem.pdf){: .btn}   | 23/11   | Apresentação detalhando e exemplificando os conceitos de permutação, arranjo, combinação, grafos e suas representações        |
-| [Lista 6 - Contagem e Grafos (final)](https://antmelo.github.io/files/Lista6_Contagem.pdf){: .btn}   | 23/11   | Lista de exercícios sobre os conceitos e propriesdades a cerca de técnicas de contagem e a conceitos básico sobre grafos          |
+| [Lista 6 - Contagem e Grafos (final)](https://antmelo.github.io/files/Lista6_Contagem.pdf){: .btn}   | 23/11   | Lista de exercícios sobre os conceitos e propriedades a cerca do uso de técnicas de contagem e conceitos básicos sobre grafos          |
 
 &nbsp;&nbsp;&nbsp;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1jAOBgL6lbg?si=MMP8JfAU49F1Q1rz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> &nbsp;&nbsp;&nbsp;
