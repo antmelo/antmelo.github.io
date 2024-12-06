@@ -49,7 +49,7 @@ lógicas; Lógica de predicados. Aplicações de lógica de predicados.
 | [Slides - Contagem e Grafos (último tópico)](https://antmelo.github.io/files/AulaFinal_Contagem.pdf){: .btn}   | 23/11   | Apresentação detalhando e exemplificando os conceitos de permutação, arranjo, combinação, grafos e suas representações        |
 | [Lista 6 - Contagem e Grafos (final)](https://antmelo.github.io/files/Lista6_Contagem.pdf){: .btn}   | 23/11   | Lista de exercícios sobre os conceitos e propriedades a cerca do uso de técnicas de contagem e conceitos básicos sobre grafos          |
 | [Lista 4 - Relações (resolvida)](https://antmelo.github.io/files/L4solv.pdf){: .btn}   | 5/12   |Proposta de solução da Lista de exercícios sobre Relações e propriedades          |
-| [Lista 5 - Funções e seq. (resolvida)](https://antmelo.github.io/files/L5solv.pdf){: .btn}   | 5/12   |Proposta de solução da Lista de exercícios sobre Funções, Sequências e Recorrências      |
+| [Lista 5 - Funções e seq. (resolvida)](https://antmelo.github.io/files/L5solv.pdf){: .button-74}   | 5/12   |Proposta de solução da Lista de exercícios sobre Funções, Sequências e Recorrências      |
 | [Lista 6 - Contagem e Grafos (resolvida)](https://antmelo.github.io/files/L6solv.pdf){: .btn}   | em breve   |Proposta de solução da Lista de exercícios sobre Métodos de Contagem e Grafos   |
 
 &nbsp;&nbsp;&nbsp;
