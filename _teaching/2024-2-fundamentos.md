@@ -49,8 +49,8 @@ lógicas; Lógica de predicados. Aplicações de lógica de predicados.
 | [Slides - Contagem e Grafos (último tópico)](https://antmelo.github.io/files/AulaFinal_Contagem.pdf){: .btn}   | 23/11   | Apresentação detalhando e exemplificando os conceitos de permutação, arranjo, combinação, grafos e suas representações        |
 | [Lista 6 - Contagem e Grafos (final)](https://antmelo.github.io/files/Lista6_Contagem.pdf){: .btn}   | 23/11   | Lista de exercícios sobre os conceitos e propriedades a cerca do uso de técnicas de contagem e conceitos básicos sobre grafos          |
 | [Lista 4 - Relações (resolvida)](https://antmelo.github.io/files/L4solv.pdf){: .btn .btn--danger}   | 5/12   |Proposta de solução da Lista de exercícios sobre Relações e propriedades          |
-| [Lista 5 - Funções e seq. (resolvida)](https://antmelo.github.io/files/L5solv.pdf){: .btn .btn--info}  | 5/12   |Proposta de solução da Lista de exercícios sobre Funções, Sequências e Recorrências      |
-| [Lista 6 - Contagem e Grafos (resolvida)](https://antmelo.github.io/files/L6solv.pdf){: .btn .btn--research }  | em breve   |Proposta de solução da Lista de exercícios sobre Métodos de Contagem e Grafos   |
+| [Lista 5 - Funções e seq. (resolvida)](https://antmelo.github.io/files/L5solv.pdf){: .btn .btn--warning}  | 5/12   |Proposta de solução da Lista de exercícios sobre Funções, Sequências e Recorrências      |
+| [Lista 6 - Contagem e Grafos (resolvida)](https://antmelo.github.io/files/L6solv.pdf){: .btn .btn--inverse}  | em breve   |Proposta de solução da Lista de exercícios sobre Métodos de Contagem e Grafos   |
 
 &nbsp;&nbsp;&nbsp;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1jAOBgL6lbg?si=MMP8JfAU49F1Q1rz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> &nbsp;&nbsp;&nbsp;
