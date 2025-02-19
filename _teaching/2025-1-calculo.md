@@ -36,8 +36,8 @@ que está disponível para [Download Aqui](https://www.mediafire.com/file/njhisf
 ## Listas de Exercícios para fazer e contabilizar pontos complementares
 
 |   Página    | Seção  | Questões  | Itens | Adicionado em   |              Descrição                                  |
-| --------    | -----  | -----     | ----- | ------    | ------------------------------------------------------------ |
+| --------    | -----  | -----     | ----- | -------------   | ------------------------------------------------------- |
 |  105 | 2.1  |  1, 2 e 3 | a,b,c,d  | 20/02   | Fazer e preparar para apresentação em sala na semana seguinte.   |
-|  143 | 2.4  |  2 e 3 | itens a,b | 20/02   | Fazer e preparar para apresentação em sala na semana seguinte.   |
+|  143 | 2.4  |  2 e 3 |  a,b | 20/02   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
