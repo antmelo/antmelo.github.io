@@ -31,6 +31,10 @@ Hardware e software, arquitetura e organização de computadores, modelos de Arq
  
    > GOMIDE, A.; STOLFI, J. ​**Elementos de Matemática Discreta para Computação**.​ UNICAMP, 2014. 
 
+## Listas para fazer
 
+| Exercício           | Adicionado em   |              Descrição                                                |
+| --------         | ------ | ------------------------------------------------------------ |
+| Questões 1, 2 e 3 | 20/02   | Fazer e preparar para apresentação em sala na semana seguinte.   |
    
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
