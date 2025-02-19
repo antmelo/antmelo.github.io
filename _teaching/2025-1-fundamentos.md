@@ -33,6 +33,12 @@ lógicas; Lógica de predicados. Aplicações de lógica de predicados.
 
  que está disponível para [Download AQUI](https://antmelo.github.io/files/livro-elementos.pdf){: .btn}.
 
+ ## Listas para fazer
+
+| Exercício           | Adicionado em   |              Descrição                                                |
+| --------         | ------ | ------------------------------------------------------------ |
+| Questões 1, 2 e 3 | 20/02   | Fazer e preparar para apresentação em sala na semana seguinte.   |
+
    
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
 
