@@ -20,7 +20,7 @@ Limites. Continuidade. Derivadas. Aplicação da Derivada. Máximos e Mínimos. 
 
 ## Referências Bibliográficas Complementares
 
-4. RÁVILA, G. Cálculo das Funções de uma Variável. v. 2, 7. ed. Rio de Janeiro: Livros Técnicos e Científicos, 2004. 244p
+4. ÁVILA, G. Cálculo das Funções de uma Variável. v. 1, 7. ed. Rio de Janeiro: Livros Técnicos e Científicos, 2004. 244p
 5. BATSSHELET. E. Introdução à Matemática para Biocientistas. São Paulo: ED. da Universidade de São Paulo,1978. 598p.
 6. HOFFMANN, L. D. Cálculo: um curso Moderno e suas Aplicações. Rio de Janeiro: L.T.C, 2002. 525p.
 7. LEITHOLD, L. O. Cálculo com Geometria Analítica. vol. 1 e 2. São Paulo: Harbra, 1994.
@@ -33,10 +33,11 @@ Limites. Continuidade. Derivadas. Aplicação da Derivada. Máximos e Mínimos. 
 que está disponível para [Download Aqui](https://www.mediafire.com/file/njhisfaq3zab0xc/%5Bsouexatasmais%5D+Um_Curso_de_C%C3%A1lculo_%E2%80%93_Volume_1%2C_6%C2%AA_edi%C3%A7%C3%A3o_Hamilton_Luiz_Guidorizzi.pdf){: .btn}  (o link não é meu, então avise se não estiver funcionando).
 
 
-## Listas para fazer
+## Listas de Exercícios para fazer e contabilizar pontos complementares
 
-| Exercício           | Adicionado em   |              Descrição                                                |
-| --------         | ------ | ------------------------------------------------------------ |
-| Página 105: Exercícios 2.1 Qs 1, 2 e 3 itens a,b,c,d <br> Página 143: Exercícios 2.4 Qs 2 e 3 itens a,b | 20/02   | Fazer e preparar para apresentação em sala na semana seguinte.   |
+|   Página    | Seção  | Questões  | Itens | Adicionado em   |              Descrição                                  |
+| --------    | -----  | -----     | ----- | ------    | ------------------------------------------------------------ |
+|  105 | 2.1  |  1, 2 e 3 | a,b,c,d  | 20/02   | Fazer e preparar para apresentação em sala na semana seguinte.   |
+|  143 | 2.4  |  2 e 3 | itens a,b | 20/02   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
