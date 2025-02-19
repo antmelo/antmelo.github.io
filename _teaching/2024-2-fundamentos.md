@@ -4,7 +4,7 @@ collection: teaching
 type: "Sistemas para Internet (2024-2)"
 permalink: /teaching/2024-2-fundamentos
 venue: "UEG"
-date: 2024-08-08
+date: 2024-07-07
 location: "Posse, Goiás"
 ---
 
@@ -43,29 +43,12 @@ lógicas; Lógica de predicados. Aplicações de lógica de predicados.
 | [Lista 2 - Lógica proposicional](https://antmelo.github.io/files/Lista2_Logica.pdf){: .btn}   | 21/9   | Lista de exercícios sobre operadores, tabelas-verdade, equivalencias e demais abordagens lógicas            |
 | [Lista 3 - Métodos de Demonstração](https://antmelo.github.io/files/Lista3_Demons.pdf){: .btn}   | 7/10   | Lista de exercícios sobre os principais métodos de demonstração usados em construções lógicas na matemática           |
 | [Apostila da OBMEP sobre indução](http://www.obmep.org.br/docs/apostila4.pdf){: .btn}   | 23/10   | Material da OBMEP destinado a apresentar as ideias de Indução Matemática para CRIANÇAS do 6º ao 9º ano do Fundamental (Níveis 1 e 2) e Ensino Médio (Nível 3)           |
-| [Lista 3 - Demonstrações (resolvida)](https://antmelo.github.io/files/FundL3solv.pdf){: .btn .btn--danger}   | 1/11   | Proposta de solução da Lista de exercícios sobre métodos de demonstração           |
 | [Lista 4 - Relações e propriedades](https://antmelo.github.io/files/Lista4_Relacoes.pdf){: .btn}   | 3/11   | Lista de exercícios sobre os conceitos e propriesdades a cerca de relações entre conjuntos           |
 | [Lista 5 - Funções, Sequências e Recorrências](https://antmelo.github.io/files/Lista5_Funcoes.pdf){: .btn}   | 11/11   | Lista de exercícios sobre os conceitos e propriesdades a cerca de Funções, Sequências e a noção de Recursividade          |
 | [Slides - Contagem e Grafos (último tópico)](https://antmelo.github.io/files/AulaFinal_Contagem.pdf){: .btn}   | 23/11   | Apresentação detalhando e exemplificando os conceitos de permutação, arranjo, combinação, grafos e suas representações        |
 | [Lista 6 - Contagem e Grafos (final)](https://antmelo.github.io/files/Lista6_Contagem.pdf){: .btn}   | 23/11   | Lista de exercícios sobre os conceitos e propriedades a cerca do uso de técnicas de contagem e conceitos básicos sobre grafos          |
-| [Lista 4 - Relações (resolvida)](https://antmelo.github.io/files/L4solv.pdf){: .btn .btn--danger}   | 5/12   |Proposta de solução da Lista de exercícios sobre Relações e propriedades          |
-| [Lista 5 - Funções e seq. (resolvida)](https://antmelo.github.io/files/L5solv.pdf){: .btn .btn--danger}  | 5/12   |Proposta de solução da Lista de exercícios sobre Funções, Sequências e Recorrências      |
-| [Lista 6 - Contagem e Grafos (resolvida)](https://antmelo.github.io/files/L6solv.pdf){: .btn .btn--danger}  | 6/12   |Proposta de solução da Lista de exercícios sobre Métodos de Contagem e Grafos   |
 
-&nbsp;&nbsp;&nbsp;
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1jAOBgL6lbg?si=MMP8JfAU49F1Q1rz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> &nbsp;&nbsp;&nbsp;
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3Qyl25a1h8?si=L56g-DXIW_Py5e8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> &nbsp;&nbsp;&nbsp;
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gcgyBrlH2Cc?si=9-llUAl8dn0awYOB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> &nbsp;&nbsp;&nbsp;
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vWskxT8JcQ8?si=JkonEZ-Tuk8svP4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> &nbsp;&nbsp;&nbsp;
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5zo2DM8XGs?si=hnqPniyWTngqALiG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> &nbsp;&nbsp;&nbsp;
 
    
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
 
-## Projeto de Ensino - Revivendo Matemática
-
-Reuniões aos sábados às 14h através do link [https://meet.google.com/gnu-npcy-ooe](https://meet.google.com/gnu-npcy-ooe)
