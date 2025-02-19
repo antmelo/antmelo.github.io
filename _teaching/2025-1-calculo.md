@@ -38,3 +38,5 @@ que está disponível para [Download Aqui](https://antmelo.github.io/files/L6sol
 | Exercício           | Adicionado em   |              Descrição                                                |
 | --------         | ------ | ------------------------------------------------------------ |
 | Questões 1, 2 e 3 | 20/02   | Fazer e preparar para apresentação em sala na semana seguinte.   |
+
+   Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
