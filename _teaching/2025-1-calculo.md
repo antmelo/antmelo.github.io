@@ -30,13 +30,15 @@ Limites. Continuidade. Derivadas. Aplicação da Derivada. Máximos e Mínimos. 
  
    > GUDORIZZI, H. L. **Um Curso de Cálculo. vol. 1** , 6a ed. Rio de Janeiro: LTC, 2016.
 
-que está disponível para [Download Aqui](https://antmelo.github.io/files/L6solv.pdf){: .btn}  (o link não é meu, então avise se não estiver funcionando).
+que está disponível para [Download Aqui](https://www.mediafire.com/file/njhisfaq3zab0xc/%5Bsouexatasmais%5D+Um_Curso_de_C%C3%A1lculo_%E2%80%93_Volume_1%2C_6%C2%AA_edi%C3%A7%C3%A3o_Hamilton_Luiz_Guidorizzi.pdf){: .btn}  (o link não é meu, então avise se não estiver funcionando).
 
 
 ## Listas para fazer
 
 | Exercício           | Adicionado em   |              Descrição                                                |
 | --------         | ------ | ------------------------------------------------------------ |
-| Questões 1, 2 e 3 | 20/02   | Fazer e preparar para apresentação em sala na semana seguinte.   |
+| Página 105: Exercícios 2.1 Qs 1, 2 e 3 itens a,b,c,d 
+Página 143: Exercícios 2.4 Qs 2 e 3 itens a,b
+| 20/02   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
