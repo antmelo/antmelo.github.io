@@ -37,8 +37,6 @@ que está disponível para [Download Aqui](https://www.mediafire.com/file/njhisf
 
 | Exercício           | Adicionado em   |              Descrição                                                |
 | --------         | ------ | ------------------------------------------------------------ |
-| Página 105: Exercícios 2.1 Qs 1, 2 e 3 itens a,b,c,d 
-Página 143: Exercícios 2.4 Qs 2 e 3 itens a,b
-| 20/02   | Fazer e preparar para apresentação em sala na semana seguinte.   |
+| Página 105: Exercícios 2.1 Qs 1, 2 e 3 itens a,b,c,d <br> Página 143: Exercícios 2.4 Qs 2 e 3 itens a,b | 20/02   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
