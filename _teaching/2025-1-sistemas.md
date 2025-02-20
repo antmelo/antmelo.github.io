@@ -27,14 +27,17 @@ Hardware e software, arquitetura e organização de computadores, modelos de Arq
 7. PAIXÃO, Renato R. Arquitetura de Computadores - PCs. Editora Saraiva, 2014.
 
 
-### O texto base do curso será:
+### O texto base do curso será (primeiro e segundo bimestre, respectivamente):
  
-   > GOMIDE, A.; STOLFI, J. ​**Elementos de Matemática Discreta para Computação**.​ UNICAMP, 2014. 
+   > TANGON, L. **Arquitetura e organização de computadores**. Londrina: Editora e Distribuidora Educacional S.A., 2016.
+   > LPI. **Linux Essentials** (Versão 1.6). Linux Professional Institute: Materiais Didáticos, 2024.
+
+que estão disponíveis para Download: [Livro Arquitetura de Computadores](https://antmelo.github.io/files/ArquiteturaPC.pdf){: .btn}  [Livro Linux Essentials](https://antmelo.github.io/files/LPI-Material.pdf){: .btn}  
 
 ## Listas para fazer
 
 | Exercício           | Adicionado em   |              Descrição                                                |
-| --------         | ------ | ------------------------------------------------------------ |
-| Questões 1, 2 e 3 | 20/02   | Fazer e preparar para apresentação em sala na semana seguinte.   |
+| -------------      | --------------- | ------------------------------------------------------------------- |
+| Páginas 31 , 43 e 44 | 21/02   | Praticar sobre os conceitos abordados em sala.   |
    
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
