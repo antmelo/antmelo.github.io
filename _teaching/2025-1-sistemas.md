@@ -29,7 +29,7 @@ Hardware e software, arquitetura e organização de computadores, modelos de Arq
 
 ### O texto base do curso será (primeiro e segundo bimestre, respectivamente):
  
-   > TANGON, L. **Arquitetura e organização de computadores**. Londrina: Editora e Distribuidora Educacional S.A., 2016.
+   > TANGON, L. **Arquitetura e organização de computadores**. Londrina: Editora e Distribuidora Educacional S.A., 2016. <br>
    > LPI. **Linux Essentials** (Versão 1.6). Linux Professional Institute: Materiais Didáticos, 2024.
 
 que estão disponíveis para Download: [Livro Arquitetura de Computadores](https://antmelo.github.io/files/ArquiteturaPC.pdf){: .btn}  [Livro Linux Essentials](https://antmelo.github.io/files/LPI-Material.pdf){: .btn}  
