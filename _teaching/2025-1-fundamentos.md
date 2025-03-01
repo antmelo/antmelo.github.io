@@ -31,13 +31,13 @@ lógicas; Lógica de predicados. Aplicações de lógica de predicados.
  
    > MELO, A. ​**Fundamentos de Matemática para Computação: Notas de Aula**.​ Editora UEG, 2025. 
 
- que está disponível para [Download AQUI](https://antmelo.github.io/files/livro-elementos.pdf){: .btn}.
+ que está disponível na versão preliminar (imcompleta) para [Download AQUI](https://antmelo.github.io/files/capF-0.1.pdf){: .btn}.
 
  ## Listas para fazer
 
 | Exercício           | Adicionado em   |              Descrição                                                |
 | --------         | ------ | ------------------------------------------------------------ |
-| Questões 1, 2 e 3 | 20/02   | Fazer e preparar para apresentação em sala na semana seguinte.   |
+| Todos das páginas 6 e 10 | 1/03   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 
    
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
