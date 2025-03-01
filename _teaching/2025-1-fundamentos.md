@@ -33,7 +33,7 @@ lógicas; Lógica de predicados. Aplicações de lógica de predicados.
 
  que está disponível na versão preliminar (imcompleta) para [Download AQUI](https://antmelo.github.io/files/capF-0.1.pdf){: .btn}.
 
- ## Listas para fazer
+## Listas de Exercícios para fazer e contabilizar pontos complementares
 
 | Exercício           | Adicionado em   |              Descrição                                                |
 | --------         | ------ | ------------------------------------------------------------ |
