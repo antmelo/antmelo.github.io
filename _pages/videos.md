@@ -1,16 +1,17 @@
 ---
 layout: archive
 title: "Videos"
-permalink: /videos/
+permalink: /videos
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
 
-{% include base_path %}
+## Videos sobre Computação e Matemática
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+(em dev)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nTtdEYRh8WI?si=-g2oCMSzgXeOVbow" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+   Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
+
