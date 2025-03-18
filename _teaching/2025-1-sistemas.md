@@ -39,5 +39,6 @@ que estão disponíveis para Download: [Livro Arquitetura de Computadores](https
 | Exercício           | Adicionado em   |              Descrição                                                |
 | -------------      | --------------- | ------------------------------------------------------------------- |
 | Páginas 31 , 43 e 44 | 21/02   | Praticar sobre os conceitos abordados em sala.   |
+| Páginas 116 | 15/03   | Praticar sobre os conceitos abordados em sala.   |
    
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
