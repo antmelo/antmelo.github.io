@@ -40,5 +40,6 @@ que está disponível para [Download Aqui](https://www.mediafire.com/file/njhisf
 |  105 | 2.1  |  1, 2 e 3 | a,b,c,d  | 20/02   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 |  143 | 2.4  |  2 e 3 |  a,b | 20/02   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 |  155 | 3.1  |  Veja a | [Lista Limites](https://antmelo.github.io/files/ZZA-CAL1-L1.pdf){: .btn}   | 15/03   | Fazer e preparar para apresentação em sala na semana seguinte.   |
+|  233 | 4.1  |  Veja a | [Lista Limites e derivadas](https://antmelo.github.io/files/ZZA-CAL1-L2.pdf){: .btn}   | 20/03   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
