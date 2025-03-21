@@ -43,3 +43,7 @@ que está disponível para [Download Aqui](https://www.mediafire.com/file/njhisf
 |  233 | 4.1  |  Veja  | [Limites e derivadas](https://antmelo.github.io/files/ZZA-CAL1-L2.pdf){: .btn}   | 20/03   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
+
+## Revisão sobre Limites (video)
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/wDltsMh8CCw?si=J74HJ1USityNQjbB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
