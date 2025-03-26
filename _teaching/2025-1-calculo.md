@@ -42,6 +42,9 @@ que está disponível para [Download Aqui](https://www.mediafire.com/file/njhisf
 |  155 | 3.1  |  Veja a | [Lista Limites](https://antmelo.github.io/files/ZZA-CAL1-L1.pdf){: .btn}   | 15/03   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 |  233 | 4.1  |  Veja  | [Limites e derivadas](https://antmelo.github.io/files/ZZA-CAL1-L2.pdf){: .btn}   | 20/03   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 
+**Atenção!** Na Quinta-feira dia 27/03, NÃO teremos aula presencial de Cálculo. Este dia ficará como Estudo Dirigido para trabalhar as duas listas já anexadas acima.
+{: .notice}
+
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
 
 ## Revisão sobre Limites (video)
