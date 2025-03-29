@@ -43,7 +43,7 @@ que está disponível para [Download Aqui](https://www.mediafire.com/file/njhisf
 |  233 | 4.1  |  Veja  | [Limites e derivadas](https://antmelo.github.io/files/ZZA-CAL1-L2.pdf){: .btn}   | 20/03   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 
 **Atenção!** Na Quinta-feira dia 27/03, NÃO teremos aula presencial de Cálculo. Este dia ficará como Estudo Dirigido para trabalhar as duas listas já anexadas acima.
-{: .notice .notice--success}
+{: .notice .notice--primary}
 
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
 
