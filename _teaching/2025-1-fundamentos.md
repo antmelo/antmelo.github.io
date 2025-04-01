@@ -38,7 +38,8 @@ lógicas; Lógica de predicados. Aplicações de lógica de predicados.
 | Exercício           | Adicionado em   |              Descrição                                                |
 | --------         | ------ | ------------------------------------------------------------ |
 | Todos das páginas 6 e 10 | 1/03   | Fazer e preparar para apresentação em sala na semana seguinte.   |
-
+| Todos da página 16  | 21/03   | Fazer e preparar para apresentação em sala na semana seguinte.   |
+| Todos da página 20  | 31/03   | Fazer e preparar para apresentação em sala na semana seguinte.   |
    
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
 
