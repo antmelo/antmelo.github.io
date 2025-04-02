@@ -45,6 +45,8 @@ que está disponível para [Download Aqui](https://www.mediafire.com/file/njhisf
 **Atenção!** Na Quinta-feira dia 27/03, NÃO teremos aula presencial de Cálculo. Este dia ficará como Estudo Dirigido para trabalhar as duas listas já anexadas acima.
 {: .notice}
 
+> :memo: **Note:** Teremos aula já no novo horário.
+
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
 
 ## Revisão sobre Limites (video)
