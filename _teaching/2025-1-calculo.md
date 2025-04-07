@@ -45,6 +45,7 @@ que está disponível para [Download Aqui](https://www.mediafire.com/file/njhisf
 |  233 | 4.1  |  Veja  | [Lista 2 resolvida](https://antmelo.github.io/files/ZZA-CAL1-L2res.pdf){: .btn .btn--success}   | 05/04   | Lista de Limites e derivadas parcialmente resolvida para ilustar as respostas a serem trabalhadas.   |
 |  323 | 7.3  |  1 e 2  | a,b,c  | 5/04   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 |  330 | 7.5  |  1 e 3  | a,b  | 5/04   | Fazer e preparar para apresentação em sala na semana seguinte.   |
+|  344 | 7.7  |  1   | a,b,c,d  | 5/04   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 
 [](**Atenção!** Na Quinta-feira dia 27/03, NÃO teremos aula presencial de Cálculo. Este dia ficará como Estudo Dirigido para trabalhar as duas listas já anexadas acima.
 {: .notice} )
@@ -54,19 +55,25 @@ que está disponível para [Download Aqui](https://www.mediafire.com/file/njhisf
 
 Conforme visto na Lista anterior, calcular derivadas usando a definição por limite pode ser bem trabalhoso. Por isso, usamos fórmulas específicas para diferentes tipos de funções como listado a seguir:				
 				
-					      \begin{enumerate}
-		\item \( f(x) = k \Rightarrow f'(x) = 0  \) (Regra da Constante)			      	
-		\item \( f(x) = x^n \Rightarrow f'(x) = n \cdot  x^{n-1}  \) (Regra da Potência)
-		\item \( f(x) = e^x \Rightarrow f'(x) = e^x   \) (Regra da exponencial)
-		\item \( f(x) = \sin (x) \Rightarrow f'(x) = \cos (x)  \) (Regra do Seno)
-		\item \( f(x) = \cos (x) \Rightarrow f'(x) = -\sin (x)  \) (Regra do Cosseno)
-		\item \( f(x) = u(x) + v(x) \Rightarrow f'(x) = u'(x) + v'(x)  \) (Regra da Soma)
-		\item \( f(x) = u(x) - v(x) \Rightarrow f'(x) = u'(x) - v'(x)  \) (Regra da Subtração)
-		\item \( f(x) = u(x) \cdot v(x) \Rightarrow f'(x) = u'(x) \cdot  v(x) + v'(x) \cdot  u(x) \) (Regra do Produto)
-		\item \( f(x) = \frac{u(x)}{v(x)} \Rightarrow f'(x) = \frac{u'(x)  v(x) - v'(x)  u(x)}{v^2(x)} \) onde $v(x)\neq 0$ (Regra do Quociente)
-					
-					\end{enumerate}
 
+ <div class="btn--light-outline">
+
+ \( f(x) = k \Rightarrow f'(x) = 0  \) (Regra da Constante) <br> 
+ \( f(x) = x^n \Rightarrow f'(x) = n \cdot  x^{n-1}  \) (Regra da Potência) <br> 
+\( f(x) = e^x \Rightarrow f'(x) = e^x   \) (Regra da exponencial) <br> 
+\( f(x) = \sin (x) \Rightarrow f'(x) = \cos (x)  \) (Regra do Seno)  <br> 
+ \( f(x) = \cos (x) \Rightarrow f'(x) = -\sin (x)  \) (Regra do Cosseno)  <br> 
+\( f(x) = u(x) + v(x) \Rightarrow f'(x) = u'(x) + v'(x)  \) (Regra da Soma) <br> 
+\( f(x) = u(x) - v(x) \Rightarrow f'(x) = u'(x) - v'(x)  \) (Regra da Subtração) <br> 
+ \( f(x) = u(x) \cdot v(x) \Rightarrow f'(x) = u'(x) \cdot  v(x) + v'(x) \cdot  u(x) \) (Regra do Produto) <br> 
+ \( f(x) = \frac{u(x)}{v(x)} \Rightarrow f'(x) = \frac{u'(x)  v(x) - v'(x)  u(x)}{v^2(x)} \) onde $v(x)\neq 0$ (Regra do Quociente) <br> 
+
+ </div>
+ 
+<br> 
+
+**Atenção!** Nesse bimestre veremos apenas as primeiras regras lista acima. A Regra do Produto e a Regra do Quociente serão trabalhadas depois.
+{: .notice .notice--success}
 
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
 
