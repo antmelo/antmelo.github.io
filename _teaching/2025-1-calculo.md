@@ -77,6 +77,11 @@ Conforme visto na Lista anterior, calcular derivadas usando a definição por li
 
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
 
+
+## Revisão sobre Regras de Derivação (video)   
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/DFspBukQfdU?si=CFkABJ72Fn4_C9XB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Revisão sobre Limites (video)
 
    <iframe width="560" height="315" src="https://www.youtube.com/embed/wDltsMh8CCw?si=J74HJ1USityNQjbB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
