@@ -31,7 +31,10 @@ lógicas; Lógica de predicados. Aplicações de lógica de predicados.
  
    > MELO, A. ​**Fundamentos de Matemática para Computação: Notas de Aula**.​ Editora UEG, 2025. 
 
- que está disponível na versão preliminar (imcompleta) para [Download AQUI](https://antmelo.github.io/files/capF-0.1.pdf){: .btn}.
+ que está disponível na versão preliminar (imcompleta) para [Download AQUI](https://antmelo.github.io/files/capF-0.2.pdf){: .btn}.
+
+ **Atenção!** Nosso texto base já se encontra disponível com o Capítulo 2 atualizado &#128512;.
+{: .notice .notice--success}
 
 ## Listas de Exercícios para fazer e contabilizar pontos complementares
 
@@ -40,6 +43,8 @@ lógicas; Lógica de predicados. Aplicações de lógica de predicados.
 | Todos das páginas 6 e 10 | 1/03   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 | Todos da página 16  | 21/03   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 | Todos da página 20  | 31/03   | Fazer e preparar para apresentação em sala na semana seguinte.   |
+| Todos da página 25 e 26  | 4/04   | Fazer e preparar para apresentação em sala na semana seguinte.   |
+| Todos da página 31 e 32  | 8/04   | Fazer e preparar para apresentação em sala na semana seguinte.   |
    
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
 
