@@ -46,6 +46,7 @@ que está disponível para [Download Aqui](https://www.mediafire.com/file/njhisf
 |  323 | 7.3  |  1 e 2  | a,b,c  | 5/04   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 |  330 | 7.5  |  1 e 3  | a,b  | 5/04   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 |  344 | 7.7  |  1   | a,b,c,d  | 5/04   | Fazer e preparar para apresentação em sala na semana seguinte.   |
+|   |   |    | [Simulado resolvido](https://antmelo.github.io/files/Cal-Q1.pdf){: .btn .btn--success}   | 17/05   | Questões do Simulado sobre Limites e derivadas parcialmente resolvidas para ilustar as respostas a serem trabalhadas e auxiliar na revisão para avaliação.   |
 
 [](**Atenção!** Na Quinta-feira dia 27/03, NÃO teremos aula presencial de Cálculo. Este dia ficará como Estudo Dirigido para trabalhar as duas listas já anexadas acima.
 {: .notice} )
@@ -65,6 +66,7 @@ Conforme visto na Lista anterior, calcular derivadas usando a definição por li
  \( f(x) = \cos (x) \Rightarrow f'(x) = -\sin (x)  \) (Regra do Cosseno)  <br> 
 \( f(x) = u(x) + v(x) \Rightarrow f'(x) = u'(x) + v'(x)  \) (Regra da Soma) <br> 
 \( f(x) = u(x) - v(x) \Rightarrow f'(x) = u'(x) - v'(x)  \) (Regra da Subtração) <br> 
+\( f(x) = c \cdot u(x) \Rightarrow f'(x) = c \cdot u'(x)  \) com \(c \in \mathbb{R} \) (Regra da Multiplicação por constante) <br> 
  \( f(x) = u(x) \cdot v(x) \Rightarrow f'(x) = u'(x) \cdot  v(x) + v'(x) \cdot  u(x) \) (Regra do Produto) <br> 
  \( f(x) = \frac{u(x)}{v(x)} \Rightarrow f'(x) = \frac{u'(x)  v(x) - v'(x)  u(x)}{v^2(x)} \) onde $v(x)\neq 0$ (Regra do Quociente) <br> 
 
