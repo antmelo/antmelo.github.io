@@ -42,5 +42,6 @@ que estão disponíveis para Download: [Livro Arquitetura de Computadores](https
 | Página 116 | 15/03   | Praticar sobre os conceitos abordados em sala.   |
 | Página 213 | 31/03   | Praticar sobre os conceitos abordados em sala.   |
 | Página 227 | 31/03   | Praticar sobre os conceitos abordados em sala.   |
+|  [Simulado Resolvido](https://antmelo.github.io/files/FundQ51.pdf){: .btn}  | 17/05   | Questões resolvidas do Simulado aplicado em sala para auxiliar na revisão do conteúdo da Avaliação Bimestral.   |
    
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
