@@ -72,7 +72,8 @@ Conforme visto na Lista anterior, calcular derivadas usando a definição por li
  \( f(x) = \frac{u(x)}{v(x)} \Rightarrow f'(x) = \frac{u'(x)  v(x) - v'(x)  u(x)}{v^2(x)} \) onde $v(x)\neq 0$ (Regra do Quociente) <br> 
 
  Uma das mais importantes:
- \( h(x) = (f \circ g)(x) = f(g(x)) \Rightarrow h'(x) = f'(g(x)) \cdot g'(x)} \) $ (Regra da Cadeia) <br>
+ 
+ \( h(x) = (f \circ g)(x) = f(g(x)) \Rightarrow h'(x) = f'(g(x)) \cdot g'(x)} \) (Regra da Cadeia) <br>
 
  </div>
  
