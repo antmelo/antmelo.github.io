@@ -73,14 +73,14 @@ Conforme visto na Lista anterior, calcular derivadas usando a definição por li
 
  Uma das mais importantes:
  
- \( h(x) = (f \circ g)(x) = f(g(x)) \Rightarrow h'(x) = f'(g(x)) \cdot g'(x)} \) (Regra da Cadeia) <br>
+ \( h(x) = (f \circ g)(x) = f(g(x)) \Rightarrow h'(x) = f'(g(x)) \cdot g'(x) \) (Regra da Cadeia) <br>
 
  </div>
  
 <br> 
 
-**Atenção!** Nesse bimestre veremos apenas as primeiras regras lista acima. A Regra do Produto e a Regra do Quociente serão trabalhadas depois.
-{: .notice .notice--success}
+[](**Atenção!** Nesse bimestre veremos apenas as primeiras regras lista acima. A Regra do Produto e a Regra do Quociente serão trabalhadas depois.
+{: .notice .notice--success})
 
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
 
