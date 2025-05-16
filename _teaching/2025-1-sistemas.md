@@ -32,7 +32,11 @@ Hardware e software, arquitetura e organização de computadores, modelos de Arq
    > TANGON, L. **Arquitetura e organização de computadores**. Londrina: Editora e Distribuidora Educacional S.A., 2016. <br>
    > LPI. **Linux Essentials** (Versão 1.6). Linux Professional Institute: Materiais Didáticos, 2024.
 
-que estão disponíveis para Download: [Livro Arquitetura de Computadores](https://antmelo.github.io/files/ArquiteturaPC.pdf){: .btn}  [Livro Linux Essentials](https://antmelo.github.io/files/LPI-Material.pdf){: .btn}  
+que estão disponíveis para Download: [Livro Arquitetura de Computadores](https://antmelo.github.io/files/ArquiteturaPC.pdf){: .btn}  [Livro Linux Essentials](https://antmelo.github.io/files/LPI-Material.pdf){: .btn}  <br>
+
+Slides das aulas de [Tipos de Software](https://antmelo.github.io/files/software.pdf){: .btn} e [Kernel de Sistemas Operacionais](https://antmelo.github.io/files/kernel.pdf){: .btn}    
+
+
 
 ## Listas para fazer
 
