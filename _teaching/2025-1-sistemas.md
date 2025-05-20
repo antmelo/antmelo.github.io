@@ -46,6 +46,9 @@ Slides das aulas de [Tipos de Software](https://antmelo.github.io/files/software
 | Página 116 | 15/03   | Praticar sobre os conceitos abordados em sala.   |
 | Página 213 | 31/03   | Praticar sobre os conceitos abordados em sala.   |
 | Página 227 | 31/03   | Praticar sobre os conceitos abordados em sala.   |
-|  [Simulado Resolvido](https://antmelo.github.io/files/FundQ51.pdf){: .btn}  | 17/05   | Questões resolvidas do Simulado aplicado em sala para auxiliar na revisão do conteúdo da Avaliação Bimestral.   |
+|  [Simulado Resolvido](https://antmelo.github.io/files/FundQ51.pdf){: .btn}  | 27/04   | Questões resolvidas do Simulado aplicado em sala para auxiliar na revisão do conteúdo da Avaliação Bimestral.   |
+|  [Lista sobre Software e Kernel](https://antmelo.github.io/files/ZZ-FundSL2.pdf){: .btn}  | 20/05   | Questões resolvidas do Simulado aplicado em sala para auxiliar na revisão do conteúdo da Avaliação Bimestral.   |
+
+**Atenção! A lista de revisão sobre Tipos de Software e Kernel já está disponível acima! Não deixe de fazer ou já sabe... {: .notice .notice--success}
    
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
