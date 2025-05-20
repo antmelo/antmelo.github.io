@@ -49,7 +49,9 @@ Slides das aulas de [Tipos de Software](https://antmelo.github.io/files/software
 |  [Simulado Resolvido](https://antmelo.github.io/files/FundQ51.pdf){: .btn}  | 27/04   | Questões resolvidas do Simulado aplicado em sala para auxiliar na revisão do conteúdo da Avaliação Bimestral.   |
 |  [Lista - Software e Kernel](https://antmelo.github.io/files/ZZ-FundSL2.pdf){: .btn}  | 20/05   | Questões resolvidas do Simulado aplicado em sala para auxiliar na revisão do conteúdo da Avaliação Bimestral.   |
 
-**Atenção!** A lista de revisão sobre Tipos de Software e Kernel já está disponível acima! Não deixe de fazer ou já sabe... {: .notice .notice--success}
+[](**Atenção!** A lista de revisão sobre Tipos de Software e Kernel já está disponível acima! Não deixe de fazer ou já sabe... {: .notice .notice--success})
 
+**Atenção!** A lista de revisão sobre Regra do Produto, do Quociente e da Cadeia já está disponível acima! Não deixe de fazer ou já sabe...
+{: .notice .notice--success} 
 
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
