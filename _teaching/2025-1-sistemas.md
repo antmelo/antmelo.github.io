@@ -51,7 +51,7 @@ Slides das aulas de [Tipos de Software](https://antmelo.github.io/files/software
 
 [](**Atenção!** A lista de revisão sobre Tipos de Software e Kernel já está disponível acima! Não deixe de fazer ou já sabe... {: .notice .notice--success})
 
-**Atenção!** A lista de revisão sobre Regra do Produto, do Quociente e da Cadeia já está disponível acima! Não deixe de fazer ou já sabe...
+**Atenção!** A lista de revisão sobre Tipos de Software e Kernel já está disponível acima! Não deixe de fazer ou já sabe...
 {: .notice .notice--success} 
 
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
