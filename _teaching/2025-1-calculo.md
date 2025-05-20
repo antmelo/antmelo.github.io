@@ -48,12 +48,13 @@ que está disponível para [Download Aqui](https://www.mediafire.com/file/njhisf
 |  344 | 7.7  |  1   | a,b,c,d  | 5/04   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 |   |   |    | [Simulado resolvido](https://antmelo.github.io/files/Cal-Q1.pdf){: .btn .btn--success}   | 17/04   | Questões do Simulado sobre Limites e derivadas parcialmente resolvidas para ilustar as respostas a serem trabalhadas e auxiliar na revisão para avaliação.   |
 |   |   |    | [Avaliação 1 resolvida](https://antmelo.github.io/files/ZZA_Cal-P1solved.pdf){: .btn .btn--success}   | 9/05   | Questões discutidas da Avaliação Bimestral 1 sobre Limites e derivadas parcialmente resolvidas para ilustar as respostas e auxiliar na revisão para Avaliação 2.   |
+| 350 | 7.7 a 7.10  |  Veja  | [Derivadas avançadas](https://antmelo.github.io/files/ZZA-CAL1-L4.pdf){: .btn}   | 20/05   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 
 [](**Atenção!** Na Quinta-feira dia 27/03, NÃO teremos aula presencial de Cálculo. Este dia ficará como Estudo Dirigido para trabalhar as duas listas já anexadas acima.
 {: .notice} )
 
-[](**Atenção!** Teremos aula já no novo horário às 8h desta sexta-feira dia 4/4.
-{: .notice .notice--success} )
+**Atenção!** A lista de revisão sobre Regra do Produto, do Quociente e da Cadeia já está disponível acima! Não deixe de fazer ou já sabe...
+{: .notice .notice--success} 
 
 Conforme visto na Lista anterior, calcular derivadas usando a definição por limite pode ser bem trabalhoso. Por isso, usamos fórmulas específicas para diferentes tipos de funções como listado a seguir:				
 				
