@@ -33,6 +33,10 @@ Limites. Continuidade. Derivadas. Aplicação da Derivada. Máximos e Mínimos. 
 
 que está disponível para [Download Aqui](https://www.mediafire.com/file/njhisfaq3zab0xc/%5Bsouexatasmais%5D+Um_Curso_de_C%C3%A1lculo_%E2%80%93_Volume_1%2C_6%C2%AA_edi%C3%A7%C3%A3o_Hamilton_Luiz_Guidorizzi.pdf){: .btn}  (o link não é meu, então avise se não estiver funcionando).
 
+Referência complementar para a segunda parte: [Livro Cálculo](https://antmelo.github.io/files/livro-calculo.pdf){: .btn} 
+
+ > MATOS, M. **CÁLCULO DE UMA VARIÁVEL** , 2a ed. UFPB, 2025.
+
 
 ## Listas de Exercícios para fazer e contabilizar pontos complementares
 
