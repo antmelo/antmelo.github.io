@@ -45,7 +45,10 @@ lógicas; Lógica de predicados. Aplicações de lógica de predicados.
 | Todos da página 20  | 31/03   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 | Todos da página 25 e 26  | 4/04   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 | Todos da página 31 e 32  | 8/04   | Fazer e preparar para apresentação em sala na semana seguinte.   |
-|  [Simulado Resolvido](https://antmelo.github.io/files/FundQM1.pdf){: .btn}  | 17/05   | Questões resolvidas do Simulado aplicado em sala para auxiliar na revisão do conteúdo da Avaliação Bimestral.   |
+|  [Simulado Resolvido](https://antmelo.github.io/files/FundQM1.pdf){: .btn}  | 17/04   | Questões resolvidas do Simulado aplicado em sala para auxiliar na revisão do conteúdo da Avaliação Bimestral.   |
+| Todos da página 38 | 18/05   | Fazer e preparar para apresentação em sala na semana seguinte.   |
+| Todos da página 44 | 8/05   | Fazer e preparar para apresentação em sala na semana seguinte.   |
+| Todos da página 52  | 19/05   | Fazer e preparar para apresentação em sala na semana seguinte.   |
    
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
 
