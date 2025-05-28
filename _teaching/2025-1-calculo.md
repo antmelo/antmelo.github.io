@@ -53,6 +53,7 @@ Referência complementar para a segunda parte: [Livro Cálculo](https://antmelo.
 |   |   |    | [Simulado resolvido](https://antmelo.github.io/files/Cal-Q1.pdf){: .btn .btn--success}   | 17/04   | Questões do Simulado sobre Limites e derivadas parcialmente resolvidas para ilustar as respostas a serem trabalhadas e auxiliar na revisão para avaliação.   |
 |   |   |    | [Avaliação 1 resolvida](https://antmelo.github.io/files/ZZA_Cal-P1solved.pdf){: .btn .btn--success}   | 9/05   | Questões discutidas da Avaliação Bimestral 1 sobre Limites e derivadas parcialmente resolvidas para ilustar as respostas e auxiliar na revisão para Avaliação 2.   |
 | 350 | 7.7 a 7.10  |  Veja  | [Derivadas avançadas](https://antmelo.github.io/files/ZZA-CAL1-L4.pdf){: .btn}   | 20/05   | Fazer e preparar para apresentação em sala na semana seguinte.   |
+| 350 | 7.7 a 7.10  |  Veja  | [Derivadas avançadas resolvida](https://antmelo.github.io/files/ZZA-CAL1-L4solv.pdf){: .btn .btn--success}   | 28/05   | Lista de derivadas parcialmente resolvida para ilustar as respostas a serem trabalhadas.   |
 | 640 | 10.2 a 11.7  |  Veja  | [Integrais e TFC](https://antmelo.github.io/files/ZZA-CAL1-L5.pdf){: .btn}   | 25/05   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 
 [](**Atenção!** Na Quinta-feira dia 27/03, NÃO teremos aula presencial de Cálculo. Este dia ficará como Estudo Dirigido para trabalhar as duas listas já anexadas acima.
