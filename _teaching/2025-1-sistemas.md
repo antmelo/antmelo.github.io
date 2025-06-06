@@ -37,6 +37,11 @@ que estão disponíveis para Download: [Livro Arquitetura de Computadores](https
 Slides das aulas de [Tipos de Software](https://antmelo.github.io/files/software.pdf){: .btn} e [Kernel de Sistemas Operacionais](https://antmelo.github.io/files/kernel.pdf){: .btn}    
 
 
+Apostila com comandos do Shell (ver Capítulo 6) aqui [Apostila Linux](https://antmelo.github.io/files/apostila-Linux.pdf){: .btn}    
+
+**Atenção!** O materia de revisão sobre Shell já está disponível acima! 
+{: .notice .notice--success} 
+
 
 ## Listas para fazer
 
