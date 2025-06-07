@@ -45,7 +45,7 @@ Além disso, teremos o <u>trabalho sobre GRAFOS</u> que consistirá do seguinte:
 + Baixe o [Livro: Grafos e Aplicações](https://antmelo.github.io/files/Grafos.pdf){: .btn};
 + Revise o **Capítulo 2** dele (se necessário, revise o Capítulo 1 também);
 + Faça os 7 exercícios da Página 49 a mão e gere um arquivo em .PDF;
-+ Envie o arquivo para antonio@ueg.br com o assunto "Trabalho sobre Grafos - %Nome Aluno(a)%"
++ Envie o arquivo para <u>antonio@ueg.br</u> com o assunto "Trabalho sobre Grafos - %Nome Aluno(a)%"
 + O prazo para envio será até o **dia 21/06**. 
 
 ## Listas de Exercícios para fazer e contabilizar pontos complementares
