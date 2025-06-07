@@ -36,6 +36,18 @@ lógicas; Lógica de predicados. Aplicações de lógica de predicados.
  **Atenção!** Nosso texto base já se encontra disponível com o **Capítulo 3** atualizado &#128512;.
 {: .notice}
 
+## Encerramento do Semestre 2025-1!
+
+Conforme explicado em sala, nossa avaliação bimestral ocorrerá **dia 14/06 (13/06 para quem não pode vir no sábado)** e cobriremos apenas o **Capítulo 3** do nosso texto base. 
+
+Além disso, teremos o <u>trabalho sobre GRAFOS</u> que consistirá do seguinte:
+
++ Baixe o [Livro: Grafos e Aplicações](https://antmelo.github.io/files/Grafos.pdf){: .btn};
++ Revise o **Capítulo 2** dele (se necessário, revise o Capítulo 1 também);
++ Faça os 7 exercícios da Página 49 a mão e gere um arquivo em .PDF;
++ Envie o arquivo para antonio@ueg.br com o assunto "Trabalho sobre Grafos - %Nome Aluno(a)%"
++ O prazo para envio será até o **dia 21/06**. 
+
 ## Listas de Exercícios para fazer e contabilizar pontos complementares
 
 | Exercício           | Adicionado em   |              Descrição                                                |
