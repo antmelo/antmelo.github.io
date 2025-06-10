@@ -55,12 +55,13 @@ Referência complementar para a segunda parte: [Livro Cálculo](https://antmelo.
 | 350 | 7.7 a 7.10  |  Veja  | [Derivadas avançadas](https://antmelo.github.io/files/ZZA-CAL1-L4.pdf){: .btn}   | 20/05   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 | 350 | 7.7 a 7.10  |  Veja  | [Derivadas avançadas resolvida](https://antmelo.github.io/files/ZZA-CAL1-L4solv.pdf){: .btn .btn--success}   | 28/05   | Lista de derivadas parcialmente resolvida para ilustar as respostas a serem trabalhadas.   |
 | 640 | 10.2 a 11.7  |  Veja  | [Integrais e TFC](https://antmelo.github.io/files/ZZA-CAL1-L5.pdf){: .btn}   | 25/05   | Fazer e preparar para apresentação em sala na semana seguinte.   |
+| 796 | 11.8 e 13.1  |  Veja  | [Aplicações de Integrais](https://antmelo.github.io/files/ZZA-CAL1-L6.pdf){: .btn}   | 09/06   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 
-[](**Atenção!** Na Quinta-feira dia 27/03, NÃO teremos aula presencial de Cálculo. Este dia ficará como Estudo Dirigido para trabalhar as duas listas já anexadas acima.
-{: .notice} )
+**Atenção!** Na Quinta-feira dia 20/06, NÃO teremos aula presencial de Cálculo. Este dia ficará como Estudo Dirigido para trabalhar as listas e revisão para a **Avaliação Bimestral dia 27/06**.
+{: .notice } 
 
-**Atenção!** A lista de revisão sobre Regras de Integração já está disponível acima! 
-{: .notice} 
+**Atenção!** A lista de revisão sobre Aplicações de Integrais já está disponível acima! 
+{: .notice .notice--success} 
 
 Conforme visto na Lista anterior, calcular derivadas usando a definição por limite pode ser bem trabalhoso. Por isso, usamos fórmulas específicas para diferentes tipos de funções como listado a seguir:				
 				
