@@ -56,6 +56,7 @@ Referência complementar para a segunda parte: [Livro Cálculo](https://antmelo.
 | 350 | 7.7 a 7.10  |  Veja  | [Derivadas avançadas resolvida](https://antmelo.github.io/files/ZZA-CAL1-L4solv.pdf){: .btn .btn--success}   | 28/05   | Lista de derivadas parcialmente resolvida para ilustar as respostas a serem trabalhadas.   |
 | 640 | 10.2 a 11.7  |  Veja  | [Integrais e TFC](https://antmelo.github.io/files/ZZA-CAL1-L5.pdf){: .btn}   | 25/05   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 | 796 | 11.8 e 13.1  |  Veja  | [Aplicações de Integrais](https://antmelo.github.io/files/ZZA-CAL1-L6.pdf){: .btn}   | 09/06   | Fazer e preparar para apresentação em sala na semana seguinte.   |
+|   |   |    | [Simulado 2 resolvido](https://antmelo.github.io/files/ZZA-CAL1-Q2solv.pdf){: .btn .btn--success}   | 12/06   | Questões do Simulado sobre Derivadas e Integrais resolvidas para ilustar as respostas a serem trabalhadas e auxiliar na revisão para avaliação.   |
 
 **Atenção!** Na Quinta-feira dia 20/06, NÃO teremos aula presencial de Cálculo. Este dia ficará como Estudo Dirigido para trabalhar as listas e revisão para a **Avaliação Bimestral dia 27/06**.
 {: .notice } 
