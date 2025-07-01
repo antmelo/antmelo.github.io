@@ -16,9 +16,9 @@ Noções de probabilidade; Distribuição binomial, de Poisson e normal (Gauss);
 
 ## Bibliografia Básica
 
-1. BUSSAB, W. O.; MORETTIN, P. A. Estatística básica. 8. ed. São Paulo: Saraiva, 2013. 548p.
+1. BUSSAB, W. O.; MORETTIN, P. A. Estatística básica. 8. ed. São Paulo: Saraiva, 2013. 548p. https://app.minhabiblioteca.com.br/reader/books/9788571441484/
 2. CENTENO, A. J. Curso de estatística aplicada à biologia. 2. ed. Goiânia: UFG, 2002. 234 p.
-3. CRESPO, A. A. Estatística fácil. 19. ed. São Paulo: Saraiva, 2009. 232p.
+3. CRESPO, A. A. Estatística fácil. 19. ed. São Paulo: Saraiva, 2009. 232p. https://app.minhabiblioteca.com.br/reader/books/9788571440814/
 
 ## Referências Bibliográficas Complementares
   
