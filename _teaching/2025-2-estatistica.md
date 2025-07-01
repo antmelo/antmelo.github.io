@@ -25,7 +25,7 @@ Noções de probabilidade; Distribuição binomial, de Poisson e normal (Gauss);
 4. BANZATTO, D. A.; KRONKA, S. N. Experimentação Agrícola. 4. ed. Jaboticabal: FUNEP, 2006. 237 p.
 5. CALLEGARI-JACQUES, S. M. Bioestatística: princípios e aplicações. Porto Alegre: Artmed, 2007. 255p.
 6. GOMES, P. F. Curso de estatística experimental.15. ed. Piracicaba: FEALQ, 2009. 451p.
-7. OLIVEIRA, F. E. M. de. Estatística e Probabilidade. 3. ed. Rio de Janeiro: LTC, 2017. 280p.
+7. OLIVEIRA, F. E. M. de. Estatística e Probabilidade. 3. ed. Rio de Janeiro: LTC, 2017. 280p. https://app.minhabiblioteca.com.br/reader/books/9788521633846/
 8. SPIEGEL, M. R; STEPHENS, L. J. Estatística. 4. ed. Porto Alegre: Artmed, 2009. 600p.
 
 
