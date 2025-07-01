@@ -16,16 +16,16 @@ Noções de probabilidade; Distribuição binomial, de Poisson e normal (Gauss);
 
 ## Bibliografia Básica
 
-1. BUSSAB, W. O.; MORETTIN, P. A. Estatística básica. 8. ed. São Paulo: Saraiva, 2013. 548p. https://app.minhabiblioteca.com.br/reader/books/9788571441484/
+1. BUSSAB, W. O.; MORETTIN, P. A. Estatística básica. 8. ed. São Paulo: Saraiva, 2013. 548p. [Link Gnuteca](https://app.minhabiblioteca.com.br/reader/books/9788571441484/)
 2. CENTENO, A. J. Curso de estatística aplicada à biologia. 2. ed. Goiânia: UFG, 2002. 234 p.
-3. CRESPO, A. A. Estatística fácil. 19. ed. São Paulo: Saraiva, 2009. 232p. https://app.minhabiblioteca.com.br/reader/books/9788571440814/
+3. CRESPO, A. A. Estatística fácil. 19. ed. São Paulo: Saraiva, 2009. 232p. [Link Gnuteca](https://app.minhabiblioteca.com.br/reader/books/9788571440814/)
 
 ## Referências Bibliográficas Complementares
   
 4. BANZATTO, D. A.; KRONKA, S. N. Experimentação Agrícola. 4. ed. Jaboticabal: FUNEP, 2006. 237 p.
 5. CALLEGARI-JACQUES, S. M. Bioestatística: princípios e aplicações. Porto Alegre: Artmed, 2007. 255p.
 6. GOMES, P. F. Curso de estatística experimental.15. ed. Piracicaba: FEALQ, 2009. 451p.
-7. OLIVEIRA, F. E. M. de. Estatística e Probabilidade. 3. ed. Rio de Janeiro: LTC, 2017. 280p. https://app.minhabiblioteca.com.br/reader/books/9788521633846/
+7. OLIVEIRA, F. E. M. de. Estatística e Probabilidade. 3. ed. Rio de Janeiro: LTC, 2017. 280p. [Link Gnuteca](https://app.minhabiblioteca.com.br/reader/books/9788521633846/)
 8. SPIEGEL, M. R; STEPHENS, L. J. Estatística. 4. ed. Porto Alegre: Artmed, 2009. 600p.
 
 
