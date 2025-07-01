@@ -64,7 +64,7 @@ Além disso, teremos o <u>trabalho sobre GRAFOS</u> que consistirá do seguinte:
 |  [Avaliação 2 resolvida](https://antmelo.github.io/files/ZZ-PFund2P2-25.pdf){: .btn .btn--danger}  | 30/06   | Soluções resolvidas e brevemente comentadas do conteúdo da Avaliação Bimestral 2 para elucidar o desastre que as notas da maioria se tornaram por demonstrarem não ter entendido o básico do básico.   |
 
  **Atenção!** A solução da **Avaliação Bimestral 2** está disponível acima caso alguém queira consultar porque as notas foram vergonhosas.
-{: .notice .notice--sucess}
+{: .notice .notice--success}
 
    
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
