@@ -10,6 +10,9 @@ redirect_from:
 
 Se você é estudante de uma das minhas turmas, não deixe de conferir a seção [Disciplinas](https://antmelo.github.io/teaching/){: .btn .btn--success} para eventuais atualizações de conteúdo. Se você já é mais experiente e quer se entreter ou apenas passar o tempo, talvez a seção [Publicações](https://antmelo.github.io/publications/){: .btn .btn--success} seja interessante.
 
+#### Quer armazenamento em nuvem encriptado de graça? 
+O excelente serviço alemão Filen.io oferece 10GB de graça e usando meu link de convite https://filen.io/r/676574a1c3f85314992931dd032520c6 você ganha mais 10GB! 
+
 ## Independente do seu nível, minha primeira dica é: aprenda $\LaTeX$!
 
 $\LaTeX$ é uma implementação da linguagem $\TeX$, criada para perfeita simbologia matemática, e por isso, é um sistema de preparação de documentos amplamente utilizado por pessoas em STEM (Science, Technology, Engineering and Mathematics), tornando-se o padrão para a grande maioria das publicações nessas áreas entre outras. Diferentemente de editores como Word, $\LaTeX$ não apresenta uma interface amigável onde se vê a edição em tempo real. Mas há vantagens em fazer isso:
