@@ -61,6 +61,10 @@ Além disso, teremos o <u>trabalho sobre GRAFOS</u> que consistirá do seguinte:
 | Todos da página 38 | 18/05   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 | Todos da página 44 | 8/05   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 | Todos da página 52  | 19/05   | Fazer e preparar para apresentação em sala na semana seguinte.   |
+|  [Avaliação 2 resolvida](https://antmelo.github.io/files/ZZ-PFund2P2-25.pdf){: .btn .btn--warning}  | 30/06   | Soluções resolvidas e brevemente comentadas do conteúdo da Avaliação Bimestral 2 para elucidar o desastre que as notas da maioria se tornaram por demonstrarem não ter entendido o básico do básico.   |
+
+
+
    
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
 
