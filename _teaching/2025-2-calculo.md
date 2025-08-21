@@ -31,7 +31,19 @@ Limites. Continuidade. Derivadas. Aplicação da Derivada. Máximos e Mínimos. 
  
    > MELO, A. **Cálculo para Agronomia.** , 1a ed. Anápolis: Editora UEG, 2025.
 
-que estará disponível em breve...
+que está disponível em versão preliminar para [Download Aqui](https://antmelo.github.io/files/capC.pdf){: .btn} 
+
+
+## Listas de Exercícios para fazer e contabilizar pontos complementares
+
+| Seção  | Questões  | Itens | Adicionado em   |              Descrição                                  |
+| -----  | -----     | ------ | -------------  | ------------------------------------------------------- |
+| 2.1.2  |  todas | todos  | 20/08   | Fazer e preparar para apresentação em sala na semana seguinte.   |
+
+
+   Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
+
+
 
 
 
