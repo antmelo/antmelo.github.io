@@ -40,7 +40,8 @@ que está disponível para [Download Aqui](https://antmelo.github.io/files/estat
 
 |   Página    | Seção  | Questões  | Itens | Adicionado em   |              Descrição                                  |
 | --------    | -----  | -----     | ---------   | -------------   | ------------------------------------------------------- |
-|  105 | 2.1  |  1, 2 e 3 | a,b,c,d  | 20/02   | Fazer e preparar para apresentação em sala na semana seguinte.   |
+|     37     |  4.3  |  1, 2, 3, 4, 7, 8, 10, 11, 13, 14 | todos sem separatrizes  | 22/08   | Fazer e preparar para apresentação em sala na semana seguinte.   |
+|     48     |  5.4  |  todas exceto a 24 | todos  | 02/09   | Fazer e preparar para apresentação em sala na semana seguinte (em especial aos que não foram no quadro ainda).   |
 
 
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
