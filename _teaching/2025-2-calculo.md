@@ -41,7 +41,7 @@ que está disponível em versão preliminar para [Download Aqui](https://antmelo
 | 2.1.2  |  todas | todos  | 20/08   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 | 2.2.2  |  todas | todos  | 29/08   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 | 2.3.3  |  todas | todos  | 02/09   | Fazer e preparar para apresentação em sala na semana seguinte.   |
-
+| 2.4.2  |  todas | todos  | 07/09   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 
 
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
