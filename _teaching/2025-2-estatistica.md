@@ -56,8 +56,18 @@ Este resultado é  utilizado quando $P(A)$ é difícil de ser calculada diretame
 
 **Exemplo 1 (Exercício 5.4.6):** Em uma indústria de enlatados, as linhas de Produção I, II, III respondem por 50%, 30%, 20% da produção, respectivamente. As proporções de latas com defeito de produção nas linhas I, II, e III são 0, 4%, 0, 6% e 1, 2%. Qual a probabilidade de uma lata defeituosa (descoberta ao final da inspeção do produto acabado) provir da linha I?
 
-*Solução:* Note que as linhas formam uma partição da produção com probabilides $P(I) = 0,5$, $P(II) = 0,3$ e $P(III) = 0,2$ de escolher uma lata vinda da respectiva linha. Seja $D$ o evento "escolher uma lata defeituosa". Queremos calcular $P(I|D)$. Pela Regra da Multiplicação, sabemos que $P(I \cap D) = 0,5 \times 0,004 = 0,002$. Usando o Teorema da Probabilidade Total, temos que 
+*Solução:* Note que as linhas formam uma partição da produção com probabilides $P(I) = 0,5$, $P(II) = 0,3$ e $P(III) = 0,2$ de escolher uma lata vinda da respectiva linha. Seja $D$ o evento "escolher uma lata defeituosa". Queremos calcular $P(I \mid D)$. Pela Regra da Multiplicação, sabemos que $P(I \cap D) = 0,5 \times 0,004 = 0,002$. Usando o Teorema da Probabilidade Total, temos que 
 
+$$
+\begin{aligned}
+   P(D) &= P(I \cap D) + P(II \cap D) + P(III \cap D) \\
+  &= 0,5 \times 0,004 + 0,3 \times 0,006 + 0,2 \times 0,012   \\
+  &= 0,002 + 0,0018 + 0,0024   \\
+  &= 0,0062    \\
+\end{aligned}
+$$
+
+Assim, $P(I \mid D) = \frac{P(I \cap D)}{P(D)} = \frac{0,002}{0,0062} = 0,322580645 \approx 32,26\%$.
 
 
 
