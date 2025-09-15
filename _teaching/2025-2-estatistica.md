@@ -70,7 +70,7 @@ $$
 Assim, $P(I \mid D) = \frac{P(I \cap D)}{P(D)} = \frac{0,002}{0,0062} = 0,322580645 \approx 32,26\%$.
 
 **Exemplo 2 (Exercício 5.4.10):** Uma empresa de sementes fiscalizadas vende pacotes com 20 Kg cada.
-As máquinas $A$, $B$, e $C$ enchem 25%, 35% e 40% do total produzido, respectivamente. Da produção de cada máquina 5%, 4% e 2% respectivamente, são pacotes fora do peso aceitável. Escolhe-se ao acaso um pacote e verica-se que está fora do peso aceitável.
+As máquinas $A$, $B$, e $C$ enchem 25%, 35% e 40% do total produzido, respectivamente. Da produção de cada máquina 5%, 4% e 2% respectivamente, são pacotes fora do peso aceitável. Escolhe-se ao acaso um pacote e verifica-se que está fora do peso aceitável.
 Qual a probabilidade de que o pacote tenha vindo da máquina $A$?
 
 *Solução:* Note que as máquinas formam uma partição da produção com probabilides $P(A) = 0,25$, $P(B) = 0,35$ e $P(C) = 0,4$ de escolher um pacote vindo da respectiva máquina. Seja $F$ o evento "escolher um pacote fora do peso aceitável". Queremos calcular $P(A \mid F)$. Pela Regra da Multiplicação, sabemos que $P(A \cap F) = 0,25 \times 0,05 = 0,0125$. Usando o Teorema da Probabilidade Total, temos que 
@@ -86,7 +86,7 @@ $$
 
 Assim, $P(A \mid F) = \frac{P(A \cap F)}{P(F)} = \frac{0,0125}{0,0345} = 0,362318841 \approx 36,23\%$.
 
-
+Como podemos ver, é mais fácil usar o Teorema da Probabilidade Total com a Regra da Multiplicação do que montar um somatório de probabilidades condicionais no Teorema de Bayes em casos como os exemplificados.
 
 
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
