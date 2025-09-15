@@ -49,12 +49,11 @@ que está disponível para [Download Aqui](https://antmelo.github.io/files/estat
 Para evitar confusão no uso do Teorema de Bayes, uma versão equivalente dele, porém mais simples pode ser conveniente que é o chamado *Teorema da Probabilidade Total*:
 
  <div class="btn--light-outline">
-**Teorema (da Probabilidade Total):** *Suponha que $B_1, B_2, \ldots, B_n$ são eventos mutuamente exclusivos cuja união é o espaço amostral $\Omega$, ou seja, os $B_i$ formam uma **partição** de $\Omega$. Então, se $A$ é um evento qualquer, temos que:* 
+<b>Teorema (da Probabilidade Total):</b> <i>Suponha que $B_1, B_2, \ldots, B_n$ são eventos mutuamente exclusivos cuja união é o espaço amostral $\Omega$, ou seja, os $B_i$ formam uma **partição** de $\Omega$. Então, se $A$ é um evento qualquer, temos que:</i> 
 
 $$P(A) = P(B_1 \cap A) + P(B_2 \cap A) + \ldots + P(B_n \cap A).$$
 </div>
 
-<br>
 
 Este resultado é  utilizado quando $P(A)$ é difícil de ser calculada diretamente, porém simples se for usada a relação acima.
 
@@ -93,8 +92,6 @@ $$
 $$
 
 Assim, $P(A \mid F) = \frac{P(A \cap F)}{P(F)} = \frac{0,0125}{0,0345} = 0,362318841 \approx 36,23\%$.
-
-<br>
 
 ---
 
