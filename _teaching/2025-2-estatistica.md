@@ -52,7 +52,7 @@ Para evitar confusão no uso do Teorema de Bayes, uma versão equivalente dele, 
 **Teorema (da Probabilidade Total):** *Suponha que $B_1, B_2, \ldots, B_n$ são eventos mutuamente exclusivos cuja união é o espaço amostral $\Omega$, ou seja, os $B_i$ formam uma **partição** de $\Omega$. Então, se $A$ é um evento qualquer, temos que:* 
 
 $$P(A) = P(B_1 \cap A) + P(B_2 \cap A) + \ldots + P(B_n \cap A).$$
-<\div>
+</div>
 
 <br>
 
