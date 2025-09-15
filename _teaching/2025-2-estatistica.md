@@ -44,13 +44,21 @@ que está disponível para [Download Aqui](https://antmelo.github.io/files/estat
 |     48     |  5.4  |  todas exceto a 24 | todos  | 02/09   | Fazer e preparar para apresentação em sala na semana seguinte (em especial aos que não foram no quadro ainda).   |
 
 
-#### Addendum sobre o uso do Teorema de Bayes
+### Addendum sobre o uso do Teorema de Bayes
 
-Para evitar confusão no uso do Teorema de Bayes, uma versão equivalente dele, porém mais simples pode ser conveniente que é o chamado **Teorema da Probabilidade Total**:
+Para evitar confusão no uso do Teorema de Bayes, uma versão equivalente dele, porém mais simples pode ser conveniente que é o chamado *Teorema da Probabilidade Total*:
 
-**Teorema (da Probabilidade Total):** *Suponha que $B_1, B_2, \ldots, B_n$ são eventos mutuamente exclusivos cuja união é o espaço amostral $\Omega$. Então, se $A$ é um evento qualquer, temos que:* 
+**Teorema (da Probabilidade Total):** *Suponha que $B_1, B_2, \ldots, B_n$ são eventos mutuamente exclusivos cuja união é o espaço amostral $\Omega$, ou seja, os $B_i$ formam uma **partição** de $\Omega$. Então, se $A$ é um evento qualquer, temos que:* 
+
 $$P(A) = P(B_1 \cap A) + P(B_2 \cap A) + \ldots + P(B_n \cap A).$$
+
 Este resultado é  utilizado quando $P(A)$ é difícil de ser calculada diretamente, porém simples se for usada a relação acima.
+
+**Exemplo 1 (Exercício 5.4.6):** Em uma indústria de enlatados, as linhas de Produção I, II, III respondem por 50%, 30%, 20% da produção, respectivamente. As proporções de latas com defeito de produção nas linhas I, II, e III são 0, 4%, 0, 6% e 1, 2%. Qual a probabilidade de uma lata defeituosa (descoberta ao final da inspeção do produto acabado) provir da linha I?
+
+*Solução:* Note que as linhas formam uma partição da produção com probabilides $P(I) = 0,5$, $P(II) = 0,3$ e $P(III) = 0,2$ de escolher uma lata vinda da respectiva linha. Seja $D$ o evento "escolher uma lata defeituosa". Queremos calcular $P(I|D)$. Pela Regra da Multiplicação, sabemos que $P(I \cap D) = 0,5 \times 0,004 = 0,002$. Usando o Teorema da Probabilidade Total, temos que 
+
+
 
 
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
