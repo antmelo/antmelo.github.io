@@ -44,5 +44,14 @@ que está disponível para [Download Aqui](https://antmelo.github.io/files/estat
 |     48     |  5.4  |  todas exceto a 24 | todos  | 02/09   | Fazer e preparar para apresentação em sala na semana seguinte (em especial aos que não foram no quadro ainda).   |
 
 
+#### Addendum sobre o uso do Teorema de Bayes
+
+Para evitar confusão no uso do Teorema de Bayes, uma versão equivalente dele, porém mais simples pode ser conveniente que é o chamado **Teorema da Probabilidade Total**:
+
+**Teorema (da Probabilidade Total):** *Suponha que $B_1, B_2, \ldots, B_n$ são eventos mutuamente exclusivos cuja união é o espaço amostral $\Omega$. Então, se $A$ é um evento qualquer, temos que:* 
+$$P(A) = P(B_1 \cap A) + P(B_2 \cap A) + \ldots + P(B_n \cap A).$$
+Este resultado é  utilizado quando $P(A)$ é difícil de ser calculada diretamente, porém simples se for usada a relação acima.
+
+
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
 
