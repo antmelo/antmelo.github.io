@@ -48,11 +48,17 @@ que está disponível para [Download Aqui](https://antmelo.github.io/files/estat
 
 Para evitar confusão no uso do Teorema de Bayes, uma versão equivalente dele, porém mais simples pode ser conveniente que é o chamado *Teorema da Probabilidade Total*:
 
+ <div class="btn--light-outline">
 **Teorema (da Probabilidade Total):** *Suponha que $B_1, B_2, \ldots, B_n$ são eventos mutuamente exclusivos cuja união é o espaço amostral $\Omega$, ou seja, os $B_i$ formam uma **partição** de $\Omega$. Então, se $A$ é um evento qualquer, temos que:* 
 
 $$P(A) = P(B_1 \cap A) + P(B_2 \cap A) + \ldots + P(B_n \cap A).$$
+<\div>
+
+<br>
 
 Este resultado é  utilizado quando $P(A)$ é difícil de ser calculada diretamente, porém simples se for usada a relação acima.
+
+---
 
 **Exemplo 1 (Exercício 5.4.6):** Em uma indústria de enlatados, as linhas de Produção I, II, III respondem por 50%, 30%, 20% da produção, respectivamente. As proporções de latas com defeito de produção nas linhas I, II, e III são 0, 4%, 0, 6% e 1, 2%. Qual a probabilidade de uma lata defeituosa (descoberta ao final da inspeção do produto acabado) provir da linha I?
 
@@ -68,6 +74,8 @@ $$
 $$
 
 Assim, $P(I \mid D) = \frac{P(I \cap D)}{P(D)} = \frac{0,002}{0,0062} = 0,322580645 \approx 32,26\%$.
+
+---
 
 **Exemplo 2 (Exercício 5.4.10):** Uma empresa de sementes fiscalizadas vende pacotes com 20 Kg cada.
 As máquinas $A$, $B$, e $C$ enchem 25%, 35% e 40% do total produzido, respectivamente. Da produção de cada máquina 5%, 4% e 2% respectivamente, são pacotes fora do peso aceitável. Escolhe-se ao acaso um pacote e verifica-se que está fora do peso aceitável.
@@ -85,6 +93,10 @@ $$
 $$
 
 Assim, $P(A \mid F) = \frac{P(A \cap F)}{P(F)} = \frac{0,0125}{0,0345} = 0,362318841 \approx 36,23\%$.
+
+<br>
+
+---
 
 Como podemos ver, é mais fácil usar o Teorema da Probabilidade Total com a Regra da Multiplicação do que montar um somatório de probabilidades condicionais no Teorema de Bayes em casos como os exemplificados.
 
