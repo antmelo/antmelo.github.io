@@ -31,7 +31,7 @@ Limites. Continuidade. Derivadas. Aplicação da Derivada. Máximos e Mínimos. 
  
    > MELO, A. **Cálculo para Agronomia.** , 1a ed. Anápolis: Editora UEG, 2025.
 
-que está disponível em versão preliminar para [Download Aqui](https://antmelo.github.io/files/capC.pdf){: .btn} 
+que está disponível em versão preliminar para [Download Aqui](https://antmelo.github.io/files/capC3.pdf){: .btn} 
 
 Avaliação Bimestral 1 resolvida  [Aqui](https://antmelo.github.io/files/ZZA-Cal5-P1sol.pdf){: .btn} 
 
