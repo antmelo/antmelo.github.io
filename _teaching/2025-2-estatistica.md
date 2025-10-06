@@ -43,6 +43,10 @@ que está disponível para [Download Aqui](https://antmelo.github.io/files/estat
 |     37     |  4.3  |  1, 2, 3, 4, 7, 8, 10, 11, 13, 14 | todos sem separatrizes  | 22/08   | Fazer e preparar para apresentação em sala na semana seguinte. [Respostas aqui](https://antmelo.github.io/files/ZU-EstL1.pdf){: .btn}   |
 |     48     |  5.4  |  todas exceto a 24 | todos  | 02/09   | Fazer e preparar para apresentação em sala na semana seguinte (em especial aos que não foram no quadro ainda).   |
 |     58     |  5.6  |  de 1 a 10 exceto a 8 | todos  | 13/09   | Fazer e preparar para apresentação em sala na semana seguinte (em especial aos que estarão nos jogos, devem enviar por email o caderno escaneado em PDF organizado em único arquivo).   |
+|     71     |  5.8  |  de 3 a 10 exceto a 6 | todos  | 04/10   | Fazer e preparar para apresentação no quadro em sorteio ou ser questionado oralmente a respeito (a tabela está abaixo).   |
+
+
+A tabela oficial para valores da Distribuição Normal padrão está disponível para [Download Aqui](https://antmelo.github.io/files/Normal.pdf){: .btn} 
 
 
 ## Addendum sobre o uso do Teorema de Bayes
