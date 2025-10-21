@@ -44,6 +44,7 @@ que está disponível para [Download Aqui](https://antmelo.github.io/files/estat
 |     48     |  5.4  |  todas exceto a 24 | todos  | 02/09   | Fazer e preparar para apresentação em sala na semana seguinte (em especial aos que não foram no quadro ainda).   |
 |     58     |  5.6  |  de 1 a 10 exceto a 8 | todos  | 13/09   | Fazer e preparar para apresentação em sala na semana seguinte (em especial aos que estarão nos jogos, devem enviar por email o caderno escaneado em PDF organizado em único arquivo).   |
 |     71     |  5.8  |  de 3 a 10 exceto a 6 | todos  | 04/10   | Fazer e preparar para apresentação no quadro em sorteio ou ser questionado oralmente a respeito (a tabela está abaixo).   |
+|     71     |  5.8  |  [Lista Extra](https://antmelo.github.io/files/VEstat-Lista3N25.pdf){: .btn .btn-warning}  | todos  | 20/10   | Referência para o próximo sorteio. &#129488;  |
 
 
 A tabela oficial para valores da Distribuição Normal padrão está disponível para [Download Aqui](https://antmelo.github.io/files/Normal.pdf){: .btn} 
