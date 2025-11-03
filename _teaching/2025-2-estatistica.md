@@ -49,6 +49,16 @@ que está disponível para [Download Aqui](https://antmelo.github.io/files/estat
 
 A tabela oficial para valores da Distribuição Normal padrão está disponível para [Download Aqui](https://antmelo.github.io/files/Normal.pdf){: .btn} 
 
+O capítulo complementar sobre Teste de Hipóteses está dponível para [Download Aqui](https://antmelo.github.io/files/capH.pdf){: .btn} 
+
+O conteúdo da segunda avaliação bimestral até agora é:
+
++ Distribuição exponencial;
++ Distribuição normal;
++ Conversão no Score Z;
++ Uso da Tabela da Distribuição Normal padrão;
++ Teste de Hipóteses;
++ Caracterização e identificação de Erros do Tipo I e II.
 
 ## Addendum sobre o uso do Teorema de Bayes
 
