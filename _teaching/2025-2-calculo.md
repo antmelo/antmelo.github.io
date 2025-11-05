@@ -29,7 +29,7 @@ Limites. Continuidade. Derivadas. Aplicação da Derivada. Máximos e Mínimos. 
 
 ### O texto base do curso será:
  
-   > MELO, A. **Cálculo para Agronomia.** , 1a ed. Anápolis: Editora UEG, 2025.
+   > MELO, A. **Cálculo Rápido para Ciências Agronômicas.** , 1a ed. Anápolis: Editora UEG, 2026.
 
 que está disponível em versão preliminar para [Download Aqui](https://antmelo.github.io/files/calcA.pdf){: .btn} 
 
@@ -43,6 +43,7 @@ Avaliação Bimestral 1 resolvida  [Aqui](https://antmelo.github.io/files/ZZA-Ca
 | 2.2.2  |  todas | todos  | 29/08   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 | 2.3.3  |  todas | todos  | 02/09   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 | 2.4.2  |  todas | todos  | 07/09   | Fazer e preparar para apresentação em sala na semana seguinte.   |
+| 4.2.4  |  todas | todos  | 03/11   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 
 
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
