@@ -60,6 +60,8 @@ O conteúdo da segunda avaliação bimestral até agora é:
 + Teste de Hipóteses;
 + Caracterização e identificação de Erros do Tipo I e II.
 
+A solução comentada do simulado está dponível para [Download Aqui](https://antmelo.github.io/files/ZZA-Estat-QS2sol.pdf){: .btn .btn--success}
+
 ## Addendum sobre o uso do Teorema de Bayes
 
 Para evitar confusão no uso do Teorema de Bayes, uma versão equivalente dele, porém mais simples pode ser conveniente que é o chamado *Teorema da Probabilidade Total*:
