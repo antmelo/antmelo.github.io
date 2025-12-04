@@ -58,7 +58,7 @@ O conteúdo da segunda avaliação bimestral até agora é:
 + Conversão no Score Z;
 + Uso da Tabela da Distribuição Normal padrão;
 + Teste de Hipóteses;
-+ Caracterização e identificação de Erros do Tipo I e II.
+
 
 A solução comentada do simulado está dponível para [Download Aqui](https://antmelo.github.io/files/ZZA-Estat-QS2sol.pdf){: .btn .btn--success}
 
