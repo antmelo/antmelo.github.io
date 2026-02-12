@@ -33,14 +33,14 @@ Noções de probabilidade; Distribuição binomial, de Poisson e normal (Gauss);
  
    > MELO, A. **Fundamentos de Probabilidade e Estatística** , 1a ed., 2026.
 
-que está disponível para [Download Aqui](https://antmelo.github.io/files/estatistica.pdf){: .btn} 
+que está disponível para [Download Aqui](https://antmelo.github.io/files/prob.pdf){: .btn} 
 
 
 ## Listas de Exercícios para fazer e contabilizar pontos complementares
 
 |   Página    | Questões  |  Adicionado em   |              Descrição                                  |
 | --------    | -----     | -------------    | ------------------------------------------------------- |
-| 6, 14, 17   |  todos    |   12/02   | Fazer e preparar para apresentação em sala na aula seguinte.   |
+| 17, 21   |  todos    |   12/02   | Fazer e preparar para apresentação em sala na aula seguinte.   |
 
 
 
