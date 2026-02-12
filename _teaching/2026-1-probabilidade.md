@@ -3,8 +3,8 @@ title: "Probabilidade e Estatística (Sistemas)"
 collection: teaching
 type: "Sistemas para Internet (2026-1)"
 permalink: /teaching/2026-1-probabilidade
-date: 2026-02-14
 venue: "UEG"
+date: 2026-02-14
 location: "Posse, Goiás"
 katex: true
 ---
