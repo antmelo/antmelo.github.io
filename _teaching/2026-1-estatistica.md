@@ -1,5 +1,5 @@
 ---
-title: "Estatística Fundamental"
+title: "Estatística Fundamental (Agronomia)"
 collection: teaching
 type: "Turma 2026-1"
 permalink: /teaching/2026-1-estatistica
