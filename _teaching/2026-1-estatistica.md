@@ -49,7 +49,6 @@ que está disponível para [Download Aqui](https://antmelo.github.io/files/prob.
 
 
 
-
----
-
-Como podemos ver, é mais fácil usar o Teorema da Probabilidade Total com a Regra da Multiplicação do que montar um somatório de probabilidades condicionais no Teorema de Bayes em casos como os exemplificad
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGlzcWllZm04dzRmbWoxaWNpZGt1MXdrajl6ZDFkc2ljd2JlNmR4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bHHat1SlV1VbnTxWCP/giphy.gif)
+   
+   Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
