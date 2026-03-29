@@ -38,11 +38,19 @@ Correlação e Regressão linear. Técnicas de amostragem (probabilísticas e n�
 que está disponível para [Download Aqui](https://antmelo.github.io/files/prob.pdf){: .btn} 
 
 
+**Atenção!** A atividade do Estudo Dirigido referente ao feriado está disponível abaixo! Não vacile! Teremos nosso momento de discussão em sala mas eu não faço milagre! Não adianta eu explicar se você não estiver disposto a entender! E para entender tem que revisar (quantas vezes forem necessárias...)
+{: .notice .notice--success}
+
+
 ## Listas de Exercícios para fazer e contabilizar pontos complementares
 
 |   Página    | Questões  |  Adicionado em   |              Descrição                                  |
 | --------    | -----     | -------------    | ------------------------------------------------------- |
 | 17, 21   |  todos    |   12/02   | Fazer e preparar para apresentação em sala na aula seguinte.   |
+| 28 e 29   |  todos ainda não feitos ou que você não entendeu    |   27/03   | Fazer e preparar para apresentação em sala na aula seguinte (haverá sorteio de ordem dessa vez).   |
+| 34   |  todos    |   27/03   | Fazer e preparar para apresentação em sala na aula seguinte (haverá sorteio de ordem dessa vez).   |
+| 35 a 41   |     |   27/03   | Leia sobre os Principais Modelos Discretos para discussão em sala (se estiver fácil, pode olhar o capítulo 4 também).   |
+
 
 
 
