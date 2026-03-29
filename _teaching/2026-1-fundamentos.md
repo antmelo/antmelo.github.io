@@ -33,11 +33,31 @@ Conversão de Bases numéricas: binário, octal e hexadecimal. Conceitos básico
 
  que está disponível na versão preliminar (imcompleta) para [Download AQUI](https://antmelo.github.io/files/capFM0.7.pdf){: .btn}.
 
+ **Atenção!** O materia base do curso já está disponível com o Capítulo 2 atualizado acima! Próxima atualização só depois da primeira avaliação com os capítulos restantes...  
+{: .notice .notice--success} 
+
+**Atenção!** A lista de execícios de revisão do Estudo Dirigido sobre os Capítulos 1 e 2  já está disponível abaixo! 
+{: .notice } 
+
 ## Listas de Exercícios para fazer e contabilizar pontos complementares
 
 | Exercício           | Adicionado em   |              Descrição                                            |
 | --------         | ------ | ------------------------------------------------------------ |
 | Todos das páginas 16 e 20 | 12/02   | Fazer e preparar para apresentação em sala na semana seguinte.        |
+| Todos da página  32 | 27/03   | Fazer e preparar para apresentação em sala na semana depois do feriado (haverá sorteio de ordem).        |
+| Todos das páginas 43 e 44 | 27/03   | Fazer e preparar para apresentação em sala na semana depois do feriado (haverá sorteio de ordem).        |
+| Todos das páginas 52 e 53 | 27/03   | Fazer e preparar para apresentação em sala na semana depois do feriado (haverá sorteio de ordem).        |
+| Todos da página 59 | 27/03   | Fazer e preparar para apresentação em sala na semana depois do feriado (haverá sorteio de ordem).        |
+
+Recomendo ler a Seção 2.6 sobre Lógica de Predicados, pois será o próximo tópico a ser abordado em sala e seria interessante vocês já terem um contato prévio.
+
+Como não tivemos tempo para discutir Lógica em detalhes, deixo abaixo alguns video-aulas da disciplina da UNIVESP que tem o mesmo nome que a nossa (essa é apenas uma sugestão e há muitos outros materiais online que cobrem isso, então não quero ninguém dizem que não revisou isso adequadamente e, lembrando, teremos nosso momento em sala para discussão)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/THieoMyTrLs?si=EqtL4iuIqUfCvUk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a_PDPUmCZSI?si=lgzovBlc7MUWj3oM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JVdRaJ5__tc?si=9dk2SsA5GKDEM1uO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxjdHhsemFkbmk3cTJzNjNyNHNwMzRlbGczbzRucWkzNG5mbTYzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b6oaRIgzmAKpUY/giphy.gif)
 ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhqb2Z4MndsNHhrdnI5aHhsbjlkOTN6MmRheDA0emE3czVqcmI1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3otOKtnGppPi5Q4hOw/giphy.gif)
