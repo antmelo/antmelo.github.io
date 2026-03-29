@@ -31,7 +31,7 @@ Conversão de Bases numéricas: binário, octal e hexadecimal. Conceitos básico
  
    > MELO, A. ​**Fundamentos de Matemática para Computação: Notas de Aula**.​ Editora UEG, 2026. 
 
- que está disponível na versão preliminar (imcompleta) para [Download AQUI](https://antmelo.github.io/files/capFM.pdf){: .btn}.
+ que está disponível na versão preliminar (imcompleta) para [Download AQUI](https://antmelo.github.io/files/capFM0.7.pdf){: .btn}.
 
 ## Listas de Exercícios para fazer e contabilizar pontos complementares
 
@@ -39,6 +39,9 @@ Conversão de Bases numéricas: binário, octal e hexadecimal. Conceitos básico
 | --------         | ------ | ------------------------------------------------------------ |
 | Todos das páginas 16 e 20 | 12/02   | Fazer e preparar para apresentação em sala na semana seguinte.        |
 
+![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxjdHhsemFkbmk3cTJzNjNyNHNwMzRlbGczbzRucWkzNG5mbTYzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b6oaRIgzmAKpUY/giphy.gif)
+![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhqb2Z4MndsNHhrdnI5aHhsbjlkOTN6MmRheDA0emE3czVqcmI1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3otOKtnGppPi5Q4hOw/giphy.gif)
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGlzcWllZm04dzRmbWoxaWNpZGt1MXdrajl6ZDFkc2ljd2JlNmR4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bHHat1SlV1VbnTxWCP/giphy.gif)
    
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
 
