@@ -49,7 +49,11 @@ que está disponível para [Download Aqui](https://antmelo.github.io/files/prob.
 | 17, 21   |  todos    |   12/02   | Fazer e preparar para apresentação em sala na aula seguinte.   |
 | 28 e 29   |  todos ainda não feitos ou que você não entendeu    |   27/03   | Fazer e preparar para apresentação em sala na aula seguinte (haverá sorteio de ordem dessa vez).   |
 | 34   |  todos    |   27/03   | Fazer e preparar para apresentação em sala na aula seguinte (haverá sorteio de ordem dessa vez).   |
-| 35 a 41   |     |   27/03   | Leia sobre os Principais Modelos Discretos para discussão em sala (se estiver fácil, pode olhar o capítulo 4 também).   |
+| 35 a 41   |     |   27/03   | Leia sobre os Principais Modelos Discretos para discussão em sala (se estiver fácil, pode olhar o capítulo 4 também &#128527;).   |
+
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGlzcWllZm04dzRmbWoxaWNpZGt1MXdrajl6ZDFkc2ljd2JlNmR4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bHHat1SlV1VbnTxWCP/giphy.gif)
+   
+   Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
 
 
 
