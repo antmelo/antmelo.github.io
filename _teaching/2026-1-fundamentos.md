@@ -31,9 +31,10 @@ Conversão de Bases numéricas: binário, octal e hexadecimal. Conceitos básico
  
    > MELO, A. ​**Fundamentos de Matemática para Computação: Notas de Aula**.​ Editora UEG, 2026. 
 
- que está disponível na versão preliminar (imcompleta) para [Download AQUI](https://antmelo.github.io/files/capFM0.7.pdf){: .btn}.
+ ![](https://images.steamusercontent.com/ugc/545280244446442183/E4907EDA8D89D744B8648F418F7F22B1B1871DB6)
+ que está disponível na versão preliminar (imcompleta) para [Download AQUI](https://antmelo.github.io/files/capFMCG.pdf){: .btn}.
 
- **Atenção!** O materia base do curso já está disponível com o Capítulo 2 atualizado acima! Próxima atualização só depois da primeira avaliação com os capítulos restantes...  
+ **Atenção!** O materia base do curso já está disponível com o Capítulo 3 atualizado acima com parte do Capítulo 4. Próxima atualização deve sair este mês. 
 {: .notice .notice--success} 
 
 **Atenção!** A lista de execícios de revisão do Estudo Dirigido sobre os Capítulos 1 e 2  já está disponível abaixo! 
@@ -48,16 +49,31 @@ Conversão de Bases numéricas: binário, octal e hexadecimal. Conceitos básico
 | Todos das páginas 43 e 44 | 27/03   | Fazer e preparar para apresentação em sala na semana depois do feriado (haverá sorteio de ordem).        |
 | Todos das páginas 52 e 53 | 27/03   | Fazer e preparar para apresentação em sala na semana depois do feriado (haverá sorteio de ordem).        |
 | Todos da página 59 | 27/03   | Fazer e preparar para apresentação em sala na semana depois do feriado (haverá sorteio de ordem).        |
+| Todos das páginas 96 e 106  | 18/05   | Fazer e preparar para apresentação em sala na semana depois do feriado (haverá sorteio de ordem).        |
 
-Recomendo ler a Seção 2.6 sobre Lógica de Predicados, pois será o próximo tópico a ser abordado em sala e seria interessante vocês já terem um contato prévio.
+[//]: # Recomendo ler a Seção 2.6 sobre Lógica de Predicados, pois será o próximo tópico a ser abordado em sala e seria interessante vocês já terem um contato prévio.
 
-Como não tivemos tempo para discutir Lógica em detalhes, deixo abaixo alguns video-aulas da disciplina da UNIVESP que tem o mesmo nome que a nossa (essa é apenas uma sugestão e há muitos outros materiais online que cobrem isso, então não quero ninguém dizem que não revisou isso adequadamente e, lembrando, teremos nosso momento em sala para discussão)
+[//]: # Como não tivemos tempo para discutir Lógica em detalhes, deixo abaixo alguns video-aulas da disciplina da UNIVESP que tem o mesmo nome que a nossa (essa é apenas uma sugestão e há muitos outros materiais online que cobrem isso, então não quero ninguém dizem que não revisou isso adequadamente e, lembrando, teremos nosso momento em sala para discussão)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/THieoMyTrLs?si=EqtL4iuIqUfCvUk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L5W8aEp_kNs?si=bjH5PdxhvpPDyrAV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a_PDPUmCZSI?si=lgzovBlc7MUWj3oM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XyQ302OVdlE?si=5_6b9k5glEwyZk2W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JVdRaJ5__tc?si=9dk2SsA5GKDEM1uO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zDlNYWeKN9E?si=G0zWDx3sLfAIdpSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DsHnvrhWwnE?si=-dq6rX0o9FbPUjSb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wLv9uKwUIVE?si=eiwfOT_seX9zJO4p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PBaFPKKEvFk?si=R6ndDHYHtXa6ZY_8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ji-Rz31jKT0?si=5ndlrEzROEXTs_-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0W7pBq_LbbA?si=q1lroqNJIQvpBucX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TYT3O3c6Tns?si=xf9OxRBf9RjaIf6M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxjdHhsemFkbmk3cTJzNjNyNHNwMzRlbGczbzRucWkzNG5mbTYzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b6oaRIgzmAKpUY/giphy.gif)
 ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhqb2Z4MndsNHhrdnI5aHhsbjlkOTN6MmRheDA0emE3czVqcmI1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3otOKtnGppPi5Q4hOw/giphy.gif)
