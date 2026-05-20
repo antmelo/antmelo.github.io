@@ -31,13 +31,13 @@ Conversão de Bases numéricas: binário, octal e hexadecimal. Conceitos básico
  
    > MELO, A. ​**Fundamentos de Matemática para Computação: Notas de Aula**.​ Editora UEG, 2026. 
 
- ![](https://images.steamusercontent.com/ugc/545280244446442183/E4907EDA8D89D744B8648F418F7F22B1B1871DB6)
+ ![tt](https://mir-s3-cdn-cf.behance.net/project_modules/source/0c9f4530338623.561e73260dd06.gif)
  que está disponível na versão preliminar (imcompleta) para [Download AQUI](https://antmelo.github.io/files/capFMCG.pdf){: .btn}.
 
  **Atenção!** O materia base do curso já está disponível com o Capítulo 3 atualizado acima com parte do Capítulo 4. Próxima atualização deve sair este mês. 
 {: .notice .notice--success} 
 
-**Atenção!** A lista de execícios de revisão do Estudo Dirigido sobre os Capítulos 1 e 2  já está disponível abaixo! 
+**Atenção!** A lista de execícios de revisão do Estudo Dirigido sobre o Capítulo 3 já está disponível abaixo! 
 {: .notice } 
 
 ## Listas de Exercícios para fazer e contabilizar pontos complementares
