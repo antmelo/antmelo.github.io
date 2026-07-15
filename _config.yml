@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "pt-BR"
-site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Página inicial"
 title_separator          : "-"
 name                     : &name "Antonio Melo"
@@ -23,7 +23,7 @@ repository               : "antmelo/antmelo.github.io"
 author:
   # Biographic information
   avatar           : "pencil_sketch_1460325811596.jpg"
-  name             : "Prof. Me. Antonio Melo"
+  name             : "Prof. Antonio Melo"
   pronouns         : # example: "she/her"  
   bio              : "Cientista Matemático <br> <br> Professor Assistente do Instituto Acadêmico de Ciências Tecnológicas da <a style='color: #0096ff;text-decoration:none;' href='https://ueg.br'>Universidade Estadual de Goiás</a> no <a style='color: turquoise;text-decoration:none;' href='https://www.ueg.br/posse/'>Campus de Posse</a> e pesquisador na área de Matemática com interesse em <a style='color: #d7acfa;text-decoration:none;' href='https://pt.wikipedia.org/wiki/%C3%81lgebra_abstrata'>Álgebra</a> e <a style='color: #8acde3;text-decoration:none;' href='https://pt.wikipedia.org/wiki/Sistema_din%C3%A2mico'>Sistemas Dinâmicos</a> aplicados"
   employer         : "Universidade Estadual de Goiás"
