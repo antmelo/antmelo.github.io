@@ -29,13 +29,13 @@
           // customised options
           // • auto-render specific keys, e.g.:
           delimiters: [
-              {left: '$$', right: '$$', display: true},
-              {left: '$', right: '$', display: false},
-              {left: '\\(', right: '\\)', display: false},
-              {left: '\\[', right: '\\]', display: true}
-          ],
-          // • rendering keys, e.g.:
-          throwOnError : false
+                 {left: '$$', right: '$$', display: true},
+                {left: '$', right: '$', display: false}, // Enables inline $ math
+                {left: '\\(', right: '\\)', display: false},
+                {left: '\\[', right: '\\]', display: true}
+            ],
+            // Prevents parsing elements like code blocks
+            ignoredTags: ["script", "noscript", "style", "textarea", "pre", "code"]
         });
     });
 </script>
