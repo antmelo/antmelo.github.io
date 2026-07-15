@@ -7,30 +7,29 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+locale                   : "pt-BR"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Página inicial"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Antonio Melo"
+description              : &description "Modesto artista marcial, ciclista nas horas vagas e cientista porque a curiosidade é não-enumerável"
+url                      : https://antmelo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "antmelo/antmelo.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "pencil_sketch_1460325811596.jpg"
+  name             : "Prof. Me. Antonio Melo"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Cientista Matemático <br> <br> Professor Assistente do Instituto Acadêmico de Ciências Tecnológicas da <a style='color: #0096ff;text-decoration:none;' href='https://ueg.br'>Universidade Estadual de Goiás</a> no <a style='color: turquoise;text-decoration:none;' href='https://www.ueg.br/posse/'>Campus de Posse</a> e pesquisador na área de Matemática com interesse em <a style='color: #d7acfa;text-decoration:none;' href='https://pt.wikipedia.org/wiki/%C3%81lgebra_abstrata'>Álgebra</a> e <a style='color: #8acde3;text-decoration:none;' href='https://pt.wikipedia.org/wiki/Sistema_din%C3%A2mico'>Sistemas Dinâmicos</a> aplicados"
+  employer         : "Universidade Estadual de Goiás"
+  location         : "Posse GO"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "antonio@ueg.br" 
 
   # Academic websites
   academia         : # URL
@@ -38,10 +37,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0008-8463-6140"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -51,14 +50,14 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "antmelo"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
   bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  facebook         : "tony.melo.180"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -66,7 +65,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "antonio-melo-46868670"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -138,7 +137,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -217,7 +216,7 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
+  math_engine: katex
 
 # These settings control the types of collections used by the template
 collections:
@@ -228,10 +227,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
@@ -246,7 +245,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
@@ -302,7 +301,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Bahia # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
