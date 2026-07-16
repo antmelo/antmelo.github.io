@@ -88,10 +88,10 @@
   /* success */
 
   &--success {
-    background-color: $success-color;
+    background-color: mix(#000, $success-color, 20%);
 
     &:hover {
-      background-color: mix(#000, $success-color, 20%);
+      background-color: mix(#000, $success-color, 40%);
     }
   }
 
