@@ -1,10 +1,10 @@
 ---
 title: "Cálculo para Agronomia"
 collection: teaching
-type: "Turma 2025-2"
-permalink: /teaching/2025-2-calculo
+type: "Turma 2026-2"
+permalink: /teaching/2026-2-calculo
 venue: "UEG, Agronomia"
-date: 2025-08-15
+date: 2026-08-14
 location: "Posse, Goiás"
 katex: true
 ---
@@ -33,17 +33,13 @@ Limites. Continuidade. Derivadas. Aplicação da Derivada. Máximos e Mínimos. 
 
 que está disponível em versão preliminar para [Download Aqui](https://antmelo.github.io/files/calcA.pdf){: .btn} 
 
-Avaliação Bimestral 1 resolvida  [Aqui](https://antmelo.github.io/files/ZZA-Cal5-P1sol.pdf){: .btn} 
 
 ## Listas de Exercícios para fazer e contabilizar pontos complementares
 
 | Seção  | Questões  | Itens | Adicionado em   |              Descrição                                  |
 | -----  | -----     | ------ | -------------  | ------------------------------------------------------- |
 | 2.1.2  |  todas | todos  | 20/08   | Fazer e preparar para apresentação em sala na semana seguinte.   |
-| 2.2.2  |  todas | todos  | 29/08   | Fazer e preparar para apresentação em sala na semana seguinte.   |
-| 2.3.3  |  todas | todos  | 02/09   | Fazer e preparar para apresentação em sala na semana seguinte.   |
-| 2.4.2  |  todas | todos  | 07/09   | Fazer e preparar para apresentação em sala na semana seguinte.   |
-| 4.2.4  |  todas | todos  | 03/11   | Fazer e preparar para apresentação em sala na semana seguinte.   |
+
 
 
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
