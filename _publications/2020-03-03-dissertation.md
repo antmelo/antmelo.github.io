@@ -1,6 +1,7 @@
 ---
 title: "Redes de Sistemas Dinâmicos Acoplados com Estrutura Gradiente ou Hamiltoniana"
 collection: publications
+category: conferences
 permalink: /publication/2020-03-03-dissertation
 excerpt: 'Dissertação apresentada ao PPGMAT-UNIFESP para obtenção do título de Mestre.'
 date: 2020-03-03
