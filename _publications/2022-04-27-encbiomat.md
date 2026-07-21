@@ -1,6 +1,7 @@
 ---
 title: "Formação de padrões: do modelo de Ising na biologia à dinâmica de redes hamiltonianas"
 collection: publications
+category: conferences
 permalink: /publication/2022-04-27-encbiomat
 excerpt: 'Apresentação no 4º Encontro de Biomatemática (EncBioMat).'
 date: 2022-04-27
