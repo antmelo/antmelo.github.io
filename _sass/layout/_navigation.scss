@@ -221,7 +221,7 @@
       &:last-child {
         a {
           margin-right: 0;
-           float: right;
+           right: 30px;
         }
       }
     }
@@ -230,7 +230,7 @@
       a {
         width: 25px;
         display: flex;
-        justify-content: right;
+        justify-content: center;
         cursor: pointer;
       }
     }
