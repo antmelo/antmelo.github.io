@@ -10,8 +10,6 @@ redirect_from:
 
 Se você é estudante de uma das minhas turmas, não deixe de conferir a seção [Disciplinas](https://antmelo.github.io/teaching/){: .btn .btn--success} para eventuais atualizações de conteúdo. Se você já é mais experiente e quer se entreter ou apenas passar o tempo, talvez a seção [Publicações](https://antmelo.github.io/publications/){: .btn .btn--success} seja interessante.
 
-#### Quer armazenamento em nuvem encriptado de graça? 
-O excelente serviço alemão Filen.io oferece 10GB de graça e usando meu link de convite https://filen.io/r/676574a1c3f85314992931dd032520c6 você ganha mais 10GB! 
 
 ## Independente do seu nível, minha primeira dica é: aprenda $\LaTeX$!
 
