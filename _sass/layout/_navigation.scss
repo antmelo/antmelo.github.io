@@ -221,6 +221,7 @@
       &:last-child {
         a {
           margin-right: 0;
+           margin-left: auto; 
         }
       }
     }
@@ -228,8 +229,7 @@
     #theme-toggle {
       a {
         width: 25px;
-        display: flex;
-        margin-left: auto; 
+        display: block;
         justify-content: center;
         cursor: pointer;
       }
