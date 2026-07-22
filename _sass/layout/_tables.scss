@@ -16,7 +16,7 @@ table {
 }
 
 thead {
-  background-color: var(--global-border-color) / 40%;
+  background-color: color-mix(in srgb, var(--global-border-color) 60%, #000);
   border-bottom: 1px solid var(--global-border-color);
 }
 
