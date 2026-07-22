@@ -17,13 +17,13 @@
   font-weight: bold;
   text-align: center;
   text-decoration: none;
-  background-color: color-mix(in srgb, var(--global-base-color) 60%, black 40%);
+  background-color: color-mix(in srgb, var(--global-base-color) 40%, black 60%);
   border: 0 !important;
   border-radius: $border-radius;
   cursor: pointer;
 
   &:hover {
-    background-color: mix(white, #000, 20%);
+    background-color: mix(white, #000, 40%);
   }
 
   .icon {
