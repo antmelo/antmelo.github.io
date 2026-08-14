@@ -29,16 +29,16 @@ Limites. Continuidade. Derivadas. Aplicação da Derivada. Máximos e Mínimos. 
 
 ### O texto base do curso será:
  
-   > MELO, A. **Cálculo Rápido para Ciências Agronômicas.** , 1a ed. Anápolis: Editora UEG, 2026.
+   > MELO, A. **Cálculo Rápido para Ciências Agronômicas.** , 1a ed. Anápolis: Editora UEG, 2027.
 
-que está disponível em versão preliminar para [Download Aqui](https://antmelo.github.io/files/calcA.pdf){: .btn} 
+que está disponível em versão preliminar para [Download Aqui](https://antmelo.github.io/files/CRCA.pdf){: .btn} 
 
 
 ## Listas de Exercícios para fazer e contabilizar pontos complementares
 
 | Seção  | Questões  | Itens | Adicionado em   |              Descrição                                  |
 | -----  | -----     | ------ | -------------  | ------------------------------------------------------- |
-| 2.1.2  |  todas | todos  | 20/08   | Fazer e preparar para apresentação em sala na semana seguinte.   |
+| 2.1.2  |  todas | todos  | 14/08   | Fazer e preparar para apresentação em sala na semana seguinte.   |
 
 
 
