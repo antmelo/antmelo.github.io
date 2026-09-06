@@ -44,7 +44,7 @@ que está disponível em versão preliminar para [Download Aqui](https://antmelo
 | 2.4.2  |  todas | todos  | 05/09   | Fazer e treinar para revisão em sala na dia 18/09.   |
 |   |   |   |    | Bônus: seja responsável ao menos uma vez e coloque o assunto em dia revisando também o Capítulo 3 refazendo os exemplos e testando sua compreensão na Seção 3.1.3. Se você quer ser aprovado como um adulto, então tenha atitude de adulto! Ensino Superior não é pra passarinhos mimados esperando comida de bico aberto...   |
 
-https://i.makeagif.com/media/5-21-2023/mBCetJ.gif
+![](https://i.makeagif.com/media/5-21-2023/mBCetJ.gif)
 
 
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
