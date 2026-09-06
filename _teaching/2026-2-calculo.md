@@ -38,8 +38,12 @@ que está disponível em versão preliminar para [Download Aqui](https://antmelo
 
 | Seção  | Questões  | Itens | Adicionado em   |              Descrição                                  |
 | -----  | -----     | ------ | -------------  | ------------------------------------------------------- |
-| 2.1.2  |  todas | todos  | 14/08   | Fazer e preparar para apresentação em sala na semana seguinte.   |
-
+| 2.1.4  |  todas | todos  | 14/08   | Fazer e treinar para revisão em sala na semana seguinte.   |
+| 2.2.2  |  todas | todos  | 28/08   | Fazer e treinar para revisão em sala na semana seguinte.   |
+| 2.2.2  |  todas | todos  | 28/08   | Fazer e treinar para revisão em sala na semana seguinte.   |
+| 2.3.3  |  todas | todos  | 05/09   | Fazer e treinar para revisão em sala na semana seguinte.   |
+| 2.4.2  |  todas | todos  | 05/09   | Fazer e treinar para revisão em sala na semana seguinte.   |
+|   |   |   |    | Bônus: seja responsável ao menos uma vez e coloque o assunto em dia revisando também o Capítulo 3 refazendo os exemplos e testando sua compreensão na Seção 3.1.3. Se você quer ser aprovado como um adulto, então tenha atitude de adulto! Ensino Superior não é pra crianças...   |
 
 
    Dúvidas, comentários ou observações podem ser feitas por email &#129488; &#129303;.
