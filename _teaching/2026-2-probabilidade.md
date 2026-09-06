@@ -43,6 +43,8 @@ que está disponível para [Download Aqui](https://antmelo.github.io/files/prob.
 |   Página    | Questões  |  Adicionado em   |              Descrição                                  |
 | --------    | -----     | -------------    | ------------------------------------------------------- |
 | 17, 21   |  todos    |   12/08   | Fazer e preparar para apresentação em sala na aula seguinte.   |
+| 27 a 29   |  todos    |   26/08   | Fazer e preparar para apresentação em sala na aula seguinte.   |
+| 34, 42   |  todos    |   02/09   | Fazer e preparar para apresentação em sala na aula seguinte.   |
 
 
 ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGlzcWllZm04dzRmbWoxaWNpZGt1MXdrajl6ZDFkc2ljd2JlNmR4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bHHat1SlV1VbnTxWCP/giphy.gif)
