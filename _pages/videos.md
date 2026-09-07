@@ -3,6 +3,10 @@ title: "Videos sobre Matemática, Computação e afins"
 permalink: /videos
 author_profile: true
 ---
+##  Se você quer ganhar dinehiro, aprenda Matemática
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cF5nNTdaw5w?si=-82by9Zn-lXcrbiX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ##  A engenharia insana por trás da máquina mais importante do mundo 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hoYH4KoFu_w?si=_NUyCXvtyX5TKVM3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
