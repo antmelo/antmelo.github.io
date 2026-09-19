@@ -42,7 +42,8 @@ que está disponível em versão preliminar para [Download Aqui](https://antmelo
 | 2.2.2  |  todas | todos  | 28/08   | Fazer e treinar para revisão em sala na semana seguinte.   |
 | 2.3.3  |  todas | todos  | 05/09   | Fazer e treinar para revisão em sala no dia 18/09.   |
 | 2.4.2  |  todas | todos  | 05/09   | Fazer e treinar para revisão em sala na dia 18/09.   |
-|   |   |   |    | Bônus: seja responsável ao menos uma vez e coloque o assunto em dia revisando também o Capítulo 3 refazendo os exemplos e testando sua compreensão na Seção 3.1.3. Se você quer ser aprovado como um adulto, então tenha atitude de adulto! Ensino Superior não é pra passarinhos mimados esperando comida de bico aberto...   |
+| 3.1.3  |  todas | todos  | 15/09   | Fazer e treinar para revisão em sala na dia 25/09.   |
+| [Download Aqui](https://antmelo.github.io/files/ZZA-CAL1-L3esp.pdf){: .btn}  |   |   | 18/09   |  Bônus: lista com todo o conteúdo da primeira avaliação bimestral com respostas.  |
 
 ![](https://i.makeagif.com/media/5-21-2023/mBCetJ.gif)
 
