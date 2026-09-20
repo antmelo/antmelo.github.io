@@ -45,6 +45,13 @@ que está disponível em versão preliminar para [Download Aqui](https://antmelo
 | 3.1.3  |  todas | todos  | 15/09   | Fazer e treinar para revisão em sala na dia 25/09.   |
 | [Download Aqui](https://antmelo.github.io/files/ZZA-CAL1-L3esp.pdf){: .btn}  |   |   | 18/09   |  Bônus: lista com todo o conteúdo da primeira avaliação bimestral com respostas.  |
 
+ **Atenção!** Há uma lista extra acima com **todo o conteúdo** da nossa avaliação bimestral com respostas no final para auxiliar na prática. Use com sabedoria!
+{: .notice .notice--success} 
+
+**Atenção!** Sobre as pessoas que estarão ausentes dia 25/09 por conta da semana de jogos, considerando que outras pessoas já haviam perdido algumas das atividades pontuadas em sala anteriormente, vou **reunir todos** para uma atividade de **reposição no dia 09/10** no final da aula, ou seja, teremos aula normalmente até às 16h e então faremos a atividade prática até 17h. Planejem-se quanto a isso e apenas para um melhor controle, quem for fazer me mande um email informando que está ciente e qual semana ausentou-se para eu providenciar o conteúdo adequadamente a cada caso.  
+{: .notice } 
+
+
 ![](https://i.makeagif.com/media/5-21-2023/mBCetJ.gif)
 
 
