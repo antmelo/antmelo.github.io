@@ -10,16 +10,20 @@
  *  </div>                ---- old --global-code-text-color
  */
 
-@mixin notice($name) {
+@mixin notice($name: null) {
+  $key: if($name == null or $name == '', '', '-#{$name}');
+  // '' → ''           → --notice-color
+  // 'primary' → '-primary' → --notice-primary-color
+
   margin: 2em 0 !important;
   padding: 1em;
   font-family: $global-font-family;
   font-size: $type-size-6 !important;
   text-indent: initial;
 
-  background-color: var(--notice-#{$name}-color);
+  background-color: var(--notice#{$key}-color);
   border-radius: $border-radius;
-  box-shadow: 0 1px 1px rgba(var(--notice-#{$name}-color-rgb), 0.25);
+  box-shadow: 0 1px 1px rgba(var(--notice#{$key}-color-rgb), 0.25);
   color: var(--global-code-text-color);
 
   h4 {
@@ -36,16 +40,14 @@
   h4 + p { margin-top: 0; padding-top: 0; }
 
   a {
-    color: var(--notice-#{$name}-color);
+    color: var(--notice#{$key}-color);
     &:hover {
-      /* darken ~40% at runtime via color-mix() */
-      color: color-mix(in srgb, var(--notice-#{$name}-color) 60%, #000);
+      color: color-mix(in srgb, var(--notice#{$key}-color) 60%, #000);
     }
   }
 
   code {
-    /* lighten ~95% at runtime */
-    background-color: color-mix(in srgb, var(--notice-#{$name}-color) 5%, #fff);
+    background-color: color-mix(in srgb, var(--notice#{$key}-color) 5%, #fff);
   }
 
   ul:last-child { margin-bottom: 0; }
