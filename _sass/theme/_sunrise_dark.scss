@@ -27,15 +27,7 @@ $info-color                 : mix(#000000, #52adc8, 50%);
 $notice-color               : mix(#000000, #cc4966, 50%);
 $success-color              : mix(#000000, #78c978, 50%);
 $warning-color              : mix(#000000, #f9b248, 50%);
-
-// 2. Crie um mapa para gerar as classes automaticamente
-$notice-types: (
-  "danger": $danger-color,
-  "info": $info-color,
-   "notice": $notice-color,
-  "success": $success-color,
-  "warning": $warning-color
-);
+$primary-color              : mix(#000000, #cc4060, 50%);
 
 /* Other basic settings for the template */
 $border-radius              : 4px;
@@ -65,4 +57,17 @@ html[data-theme="dark"] {
     --global-text-color                 : #{$text};
     --global-text-color-light           : #{$text-muted};
     --global-thead-color                : #{$background-lighter};
+  --notice-color:         #{$notice-color};
+  --notice-primary-color: #{$primary-color};
+  --notice-info-color:    #{$info-color};
+  --notice-warning-color: #{$warning-color};
+  --notice-success-color: #{$success-color};
+  --notice-danger-color:  #{$danger-color};
+  /* RGB triplets so we can still do alpha blending in CSS */
+  --notice-color-rgb:         #{red($notice-color)},         #{green($notice-color)},         #{blue($notice-color)};
+  --notice-primary-color-rgb: #{red($primary-color)},        #{green($primary-color)},        #{blue($primary-color)};
+  --notice-info-color-rgb:    #{red($info-color)},           #{green($info-color)},           #{blue($info-color)};
+  --notice-warning-color-rgb: #{red($warning-color)},        #{green($warning-color)},        #{blue($warning-color)};
+  --notice-success-color-rgb: #{red($success-color)},        #{green($success-color)},        #{blue($success-color)};
+  --notice-danger-color-rgb:  #{red($danger-color)},         #{green($danger-color)},         #{blue($danger-color)};
 }
