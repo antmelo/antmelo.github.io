@@ -7,7 +7,7 @@
  *  <div class="notice" markdown="1">
  *  #### Headline for the Notice
  *  Text for the notice   ---- old background-color: mix(#fff, $notice-color, 90%);
- *  </div>
+ *  </div>                ---- old --global-code-text-color
  */
 
 @mixin notice($notice-color) {
@@ -19,7 +19,7 @@
   background-color: $notice-color;
   border-radius: $border-radius;
   box-shadow: 0 1px 1px rgba($notice-color, 0.25);
-  color: var(--global-code-text-color);
+  color: var(#e8d5b7);
 
   h4 {
     margin-top: 0 !important; /* override*/
