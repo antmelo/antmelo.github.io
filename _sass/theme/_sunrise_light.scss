@@ -26,6 +26,21 @@ $notice-color               : #cc7031;
 $success-color              : #b5bd68;
 $warning-color              : #f0c674;
 
+// 2. Crie um mapa para gerar as classes automaticamente
+$notice-types: (
+  "danger": $danger-color,
+  "info": $info-color,
+   "notice": $notice-color,
+  "success": $success-color,
+  "warning": $warning-color
+);
+
+// Estilo base
+//.notice {
+  //  padding: 15px;
+   // background-color: $info-color; // Padrão
+
+
 /* Other basic settings for the template */
 $border-radius              : 4px;
 $box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
