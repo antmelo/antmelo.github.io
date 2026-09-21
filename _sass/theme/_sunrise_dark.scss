@@ -28,6 +28,15 @@ $notice-color               : mix(#000000, #cc4966, 50%);
 $success-color              : mix(#000000, #78c978, 50%);
 $warning-color              : mix(#000000, #f9b248, 50%);
 
+// 2. Crie um mapa para gerar as classes automaticamente
+$notice-types: (
+  "danger": $danger-color,
+  "info": $info-color,
+   "notice": $notice-color,
+  "success": $success-color,
+  "warning": $warning-color
+);
+
 /* Other basic settings for the template */
 $border-radius              : 4px;
 $box-shadow                 : 0 1px 1px rgba(255, 255, 255, 0.125);
