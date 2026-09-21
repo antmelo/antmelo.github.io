@@ -53,7 +53,7 @@
 
 /* Default notice */
 
-.notice          { @include notice('');         }  /* → --notice-color        */
+.notice          { @include notice();         }  /* → --notice-color        */
 .notice--primary { @include notice('primary');  }  /* → --notice-primary-color */
 .notice--info    { @include notice('info');     }
 .notice--warning { @include notice('warning');  }
