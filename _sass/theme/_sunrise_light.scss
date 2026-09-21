@@ -25,21 +25,7 @@ $info-color                 : #81a2be;
 $notice-color               : #cc7031;
 $success-color              : #b5bd68;
 $warning-color              : #f0c674;
-
-// 2. Crie um mapa para gerar as classes automaticamente
-$notice-types: (
-  "danger": $danger-color,
-  "info": $info-color,
-   "notice": $notice-color,
-  "success": $success-color,
-  "warning": $warning-color
-);
-
-// Estilo base
-//.notice {
-  //  padding: 15px;
-   // background-color: $info-color; // Padrão
-
+$primary-color              : #cc7739;
 
 /* Other basic settings for the template */
 $border-radius              : 4px;
@@ -69,6 +55,19 @@ $sidebar-screen-min-width   : 1024px;
     --global-text-color                 : #{$text};
     --global-text-color-light           : #{$text-muted};
     --global-thead-color                : #{$background-light};
+  --notice-color:         #{$notice-color};
+  --notice-primary-color: #{$primary-color};
+  --notice-info-color:    #{$info-color};
+  --notice-warning-color: #{$warning-color};
+  --notice-success-color: #{$success-color};
+  --notice-danger-color:  #{$danger-color};
+  /* RGB triplets so we can still do alpha blending in CSS */
+  --notice-color-rgb:         #{red($notice-color)},         #{green($notice-color)},         #{blue($notice-color)};
+  --notice-primary-color-rgb: #{red($primary-color)},        #{green($primary-color)},        #{blue($primary-color)};
+  --notice-info-color-rgb:    #{red($info-color)},           #{green($info-color)},           #{blue($info-color)};
+  --notice-warning-color-rgb: #{red($warning-color)},        #{green($warning-color)},        #{blue($warning-color)};
+  --notice-success-color-rgb: #{red($success-color)},        #{green($success-color)},        #{blue($success-color)};
+  --notice-danger-color-rgb:  #{red($danger-color)},         #{green($danger-color)},         #{blue($danger-color)};
 }
 
 .page__footer-follow .social-icons i,
