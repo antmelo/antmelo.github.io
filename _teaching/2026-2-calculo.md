@@ -33,6 +33,10 @@ Limites. Continuidade. Derivadas. Aplicação da Derivada. Máximos e Mínimos. 
 
 que está disponível em versão preliminar para [Download Aqui](https://antmelo.github.io/files/CRCA.pdf){: .btn} 
 
+Leitura complementar recomendada: 
+
+  > PATRÃO, M. **Cálculo 1: derivada e integral em uma variável**. Brasília : Editora Universidade de Brasília, 2011. 319 p.
+que está disponível em versão preliminar para [Download Aqui](https://repositorio.unb.br/bitstream/10482/7183/1/LIVRO_C%c3%a1lculo%201.pdf){: .btn} 
 
 ## Listas de Exercícios para fazer e contabilizar pontos complementares
 
