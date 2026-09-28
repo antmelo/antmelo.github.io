@@ -48,6 +48,22 @@ que está disponível em versão preliminar para [Download Aqui](https://reposit
 | 2.4.2  |  todas | todos  | 05/09   | Fazer e treinar para revisão em sala na dia 18/09.   |
 | 3.1.3  |  todas | todos  | 15/09   | Fazer e treinar para revisão em sala na dia 25/09.   |
 | [LISTA](https://antmelo.github.io/files/ZZA-CAL1-L3esp.pdf){: .btn}  |   |   | 19/09   |  Bônus: lista com todo o conteúdo da primeira avaliação bimestral com respostas.  |
+| [2025-1](https://antmelo.github.io/files/ZZA_Cal-P1solved.pdf){: .btn}  [2025-2](https://antmelo.github.io/files/ZZA-Cal5-P1sol.pdf){: .btn}  |   |   | 27/09   |  Extra: provas comentadas do ano passado. Tenha em mente que em 2025-1 houve mais ênfase em limites enquanto 2025-2 trabalhou-se mais a derivação implícita e aplicações, inclusive com calculadora. Neste ano **não usaremos calculadora** e a ênfase focará mais nas regras de derivação e seu uso correto, mas ainda terá limites, derivação implícita e aplicações. (*Dica*: tente refazê-las sem ir direto para as respostas.) |
+
+ O real motivo de a matemática parecer impossível não tem nada a ver com sua inteligência, com seu professor ou com seu livro didático. O verdadeiro inimigo é algo chamado *armadilha do observador*, e todo aluno cai nela em cada sessão de estudo sem nunca perceber. Quando você lê um exemplo resolvido, seu cérebro observa a solução se desenrolar. Parece familiar. Parece compreendido. Então, você segue em frente. Mas, eis
+o que seu cérebro não fez. Ele não aprendeu como resolver matemática. Ele aprendeu como observar a matemática sendo resolvida. É como assistir
+alguém nadar por 6 horas e depois pular na parte funda esperando saber nadar. Observar não é o mesmo que saber. E as provas de matemática não
+testam o que você observou, elas testam o que você consegue fazer. Existe uma diferença enorme entre ver uma solução e ser capaz de produzir
+uma sob pressão. Os melhores alunos descobriram isso, acidental ou deliberadamente. Os alunos que mais sofrem nas provas de matemática não são os que menos estudaram. São os que passaram mais horas com seus livros didáticos. Aqueles que leram cada exemplo, destacaram cada fórmula,
+fizeram as anotações mais detalhadas e ainda assim travaram quando a prova chegou. Aqui está a reviravolta sobre a qual ninguém na educação fala. Ler matemática e fazer matemática são duas atividades cerebrais completamente diferentes. Quando você lê um exemplo resolvido, seu cérebro observa a
+solução. Quando você resolve um problema sozinho, seu cérebro constrói a solução. Observar nunca desenvolve a habilidade. Somente construir desenvolve a habilidade. Seu cérebro tem dois modos de aprendizado de matemática. *Modo passivo*: ler, observar, destacar (A informação
+entra, parece familiar, mas nenhuma habilidade é desenvolvida). *Modo ativo*: tentar, esforçar-se, resolver (O cérebro constrói caminhos neurais, o
+pensamento matemático real se forma). Matemática é uma habilidade motora, exatamente como dirigir ou nadar. Você não pode aprender a dirigir lendo
+sobre dirigir. Você não pode aprender a nadar assistindo a vídeos de natação. E você não pode aprender matemática lendo exemplos resolvidos.
+Seu cérebro só desenvolve a capacidade matemática quando é forçado a produzir respostas, não a consumi-las. Cientistas chamam o estado de aprendizado ativo de **zona de esforço**, o estado mental exato onde seu cérebro constrói habilidade real em vez de confiança falsa. Estudar de
+forma confortável equivale a confiança falsa. Estudar na zona de esforço equivale a habilidade real. Cada minuto em que a matemática parece
+difícil, você está na zona de esforço. E a zona de esforço é exatamente onde os melhores alunos vivem.
+{: .notice} 
 
  **Atenção!** Há uma lista extra acima com **todo o conteúdo** da nossa avaliação bimestral com respostas no final para auxiliar na prática. Use com sabedoria!
 {: .notice .notice--success} 
