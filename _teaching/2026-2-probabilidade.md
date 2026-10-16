@@ -45,6 +45,12 @@ que está disponível para [Download Aqui](https://antmelo.github.io/files/prob.
 | 17, 21   |  todos    |   12/08   | Fazer e preparar para apresentação em sala na aula seguinte.   |
 | 27 a 29   |  todos    |   26/08   | Fazer e preparar para apresentação em sala na aula seguinte.   |
 | 34, 42   |  todos    |   02/09   | Fazer e preparar para apresentação em sala na aula seguinte.   |
+| 48, 56   |  todos    |   13/10   | Fazer e treinar para a revisão em sala no dia 23/10.   |
+|   |      |   13/10   | Bônus: comece a ler o Capítulo 4, talvez ele demandará mais atenção...   |
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l0Aqp5lJbqE?si=I_c0f5gGPSmH7qMB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 
 
 ![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGlzcWllZm04dzRmbWoxaWNpZGt1MXdrajl6ZDFkc2ljd2JlNmR4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bHHat1SlV1VbnTxWCP/giphy.gif)
