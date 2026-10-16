@@ -48,7 +48,12 @@ que está disponível em versão preliminar para [Download Aqui](https://reposit
 | 2.4.2  |  todas | todos  | 05/09   | Fazer e treinar para revisão em sala na dia 18/09.   |
 | 3.1.3  |  todas | todos  | 15/09   | Fazer e treinar para revisão em sala na dia 25/09.   |
 | [LISTA](https://antmelo.github.io/files/ZZA-CAL1-L3esp.pdf){: .btn}  |   |   | 19/09   |  Bônus: lista com todo o conteúdo da primeira avaliação bimestral com respostas.  |
-| [2025-1](https://antmelo.github.io/files/ZZA_Cal-P1solved.pdf){: .btn}  [2025-2](https://antmelo.github.io/files/ZZA-Cal5-P1sol.pdf){: .btn}  |   |   | 27/09   |  Extra: provas comentadas do ano passado. Tenha em mente que em 2025-1 houve mais ênfase em limites enquanto 2025-2 trabalhou-se mais a derivação implícita e aplicações, inclusive com calculadora. Neste ano **não usaremos calculadora** e a ênfase focará mais nas regras de derivação e seu uso correto, mas ainda terá limites, derivação implícita e aplicações. (*Dica*: tente refazê-las sem ir direto para as respostas.) |
+| 3.2.2  |  todas | todos  | 12/10   | Fazer e treinar para revisão em sala na dia 23/10.   |
+| 4.1.8  |  **APENAS** a primeira | todos  | 12/10   | Fazer e treinar para revisão em sala na dia 23/10.   |
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l0Aqp5lJbqE?si=I_c0f5gGPSmH7qMB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
  O real motivo de a matemática parecer impossível não tem nada a ver com sua inteligência, com seu professor ou com seu livro didático. O verdadeiro inimigo é algo chamado *armadilha do observador*, e todo aluno cai nela em cada sessão de estudo sem nunca perceber. Quando você lê um exemplo resolvido, seu cérebro observa a solução se desenrolar. Parece familiar. Parece compreendido. Então, você segue em frente. Mas, eis
 o que seu cérebro não fez. Ele não aprendeu como resolver matemática. Ele aprendeu como observar a matemática sendo resolvida. É como assistir
@@ -65,11 +70,6 @@ forma confortável equivale a confiança falsa. Estudar na zona de esforço equi
 difícil, você está na zona de esforço. E a zona de esforço é exatamente onde os melhores alunos vivem.
 {: .notice} 
 
- **Atenção!** Há uma lista extra acima com **todo o conteúdo** da nossa avaliação bimestral com respostas no final para auxiliar na prática. Use com sabedoria!
-{: .notice .notice--success} 
-
-**Atenção!** Sobre as pessoas que estarão ausentes dia 25/09 por conta da semana de jogos, considerando que outras pessoas já haviam perdido algumas das atividades pontuadas em sala anteriormente, vou **reunir todos** para uma atividade de **reposição no dia 09/10** no final da aula, ou seja, teremos aula normalmente até às 16h e então faremos a atividade prática até 17h. Planejem-se quanto a isso e, apenas para um melhor controle, quem for fazer me **mande um email informando que está ciente e qual semana ausentou-se** para eu providenciar o conteúdo de cada caso.  
-{: .notice .notice--warning} 
 
 
 ![](https://i.makeagif.com/media/5-21-2023/mBCetJ.gif)
