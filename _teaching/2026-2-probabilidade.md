@@ -46,7 +46,7 @@ que está disponível para [Download Aqui](https://antmelo.github.io/files/prob.
 | 27 a 29   |  todos    |   26/08   | Fazer e preparar para apresentação em sala na aula seguinte.   |
 | 34, 42   |  todos    |   02/09   | Fazer e preparar para apresentação em sala na aula seguinte.   |
 | 48, 56   |  todos    |   13/10   | Fazer e treinar para a revisão em sala no dia 23/10.   |
-|   |      |   13/10   | Bônus: comece a ler o Capítulo 4, talvez ele demandará mais atenção...   |
+| 73  |   todos  |   23/10   | Terminar os exercícios da página 56 e trabalhar as VA's contínuas em especial, quanto a Distribuição Normal e uso da Tabela da Normal Padrão.   |
 
 
 
