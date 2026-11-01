@@ -49,8 +49,28 @@ que está disponível em versão preliminar para [Download Aqui](https://reposit
 | 3.1.3  |  todas | todos  | 15/09   | Fazer e treinar para revisão em sala na dia 25/09.   |
 | [LISTA](https://antmelo.github.io/files/ZZA-CAL1-L3esp.pdf){: .btn}  |   |   | 19/09   |  Bônus: lista com todo o conteúdo da primeira avaliação bimestral com respostas.  |
 | 3.2.2  |  todas | todos  | 12/10   | Fazer e treinar para revisão em sala na dia 23/10.   |
-| 4.1.8  |  **APENAS** a primeira | todos  | 12/10   | Fazer e treinar para revisão em sala na dia 23/10.   |
+| 4.1.8  |  todos | todos  | 25/10   | Revisar com Máximos e Mínimos e treinar para revisão em sala na dia 6/11 (sem testinho). Por isso, foquem em trazer dúvidas, pois, pelo visto dia 23/10, são muitas.  |
 
+## Respostas rápidas da última atividade em sala
+
+O problema da lata já estava feito no Exemplo 3.18 (paǵina 64 do livro) com um volume conhecido, então fizemos a versão para um volume qualquer $V_0$. 
+
+Sendo $r$ e $h$ o raio da base e a altura da lata, respectivamente, o volume da lata é dado por
+\[V_0 = \pi r^2 h \]
+e a área lateral é
+\[A = 2 \pi r^2 + 2\pi rh \]
+Como o volume é fixo, o consideramos como restrição e resolvendo a equação do volume para $h$ temos:
+\[ h= \frac{V_0}{\pi r^2} \]
+e substituindo na equação da área, temos
+\[ A(r) = 2\pi r^2 + 2\frac{V_0}{r} \] 
+
+Claramente o raio deve ser positivo, e a área deve estar definida temos que  $0 < r < \infty$. . Assim para calcular os pontos críticos, derivamos a área:
+\[ 
+A'(r) =4 \pi r - 2\frac{V_0}{r^2} = \frac{ 2(2\pi r^3  - V_0){r^2} \]
+
+e logo a derivada é igual a zero em:
+\[ r = \frac{V_0}{2\pi}^\frac{1}{3}  \]
+Como existe apenas um número crítico, podemos considerar o Teorema do Ponto Crítico para garantir que este mínimo é absoluto.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l0Aqp5lJbqE?si=I_c0f5gGPSmH7qMB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
