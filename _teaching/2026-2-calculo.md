@@ -73,14 +73,18 @@ $$
 A(r) = 2\pi r^2 + 2\frac{V_0}{r} 
 $$
 
-Claramente o raio deve ser positivo, e a área deve estar definida temos que  $0 < r < \infty$. . Assim para calcular os pontos críticos, derivamos a área:
+Claramente o raio deve ser positivo, e a área deve estar definida temos que  $0 < r < \infty$. Assim, para calcular os pontos críticos, derivamos a área:
+
 $$ 
-A'(r) =4 \pi r - 2\frac{V_0}{r^2} = \frac{ 2(2\pi r^3  - V_0){r^2} 
+A'(r) =4 \pi r - 2\frac{V_0}{r^2} = \frac{ 2(2\pi r^3  - V_0)}{r^2} 
 $$
+
 e, portanto, a derivada é igual a zero em:
+
 $$
-r = \frac{V_0}{2\pi}^\frac{1}{3} 
+r = \frac{V_0}{2\pi}^{\frac{1}{3}} 
 $$
+
 Como existe apenas um número crítico, podemos considerar o Teorema do Ponto Crítico para garantir que este mínimo é absoluto.
 
 
