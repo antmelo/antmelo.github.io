@@ -89,7 +89,7 @@ Como existe apenas um número crítico, podemos considerar o Teorema do Ponto Cr
 
 Além deste, as primitivas (integrais indefinidas) deveriam ser óbvias: 
 
-$$\int( 7\cos (x) + 9e^x) \; dx  =  7 \sin (x) + 9e^c + C $$
+$$\int( 7\cos (x) + 9e^x) \; dx  =  7 \sin (x) + 9e^x + C $$
 
 $$ \int (21^z - \frac{1}{3} z^{-5})\; dz = \frac{21^z}{ \ln (21)} + \frac{1}{12} z^{-4} +C  $$
 
