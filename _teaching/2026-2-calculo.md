@@ -87,6 +87,12 @@ $$
 
 Como existe apenas um número crítico, podemos considerar o Teorema do Ponto Crítico para garantir que este mínimo é absoluto.
 
+Além deste, as primitivas (integrais indefinidas) deveriam ser óbvias: 
+
+$$\int( 7\cos (x) + 9e^x) \; dx  =  7 \sin (x) + 9e^c + C $$
+
+$$ \int (21^z - \frac{1}{3} z^{-5})\; dz = \frac{21^z}{ \ln (21)} + \frac{1}{12} z^{-4} +C  $$
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l0Aqp5lJbqE?si=I_c0f5gGPSmH7qMB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
