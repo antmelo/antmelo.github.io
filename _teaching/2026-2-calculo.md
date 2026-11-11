@@ -50,6 +50,11 @@ que está disponível em versão preliminar para [Download Aqui](https://reposit
 | [LISTA](https://antmelo.github.io/files/ZZA-CAL1-L3esp.pdf){: .btn}  |   |   | 19/09   |  Bônus: lista com todo o conteúdo da primeira avaliação bimestral com respostas.  |
 | 3.2.2  |  todas | todos  | 12/10   | Fazer e treinar para revisão em sala na dia 23/10.   |
 | 4.1.8  |  todos | todos  | 25/10   | Revisar com Máximos e Mínimos e treinar para revisão em sala na dia 6/11 (sem testinho). Por isso, foquem em trazer dúvidas, pois, pelo visto dia 23/10, são muitas.  |
+| 4.1.8  |  todos | todos  | 25/10   | Revisar com Máximos e Mínimos e treinar para revisão em sala na dia 6/11 (sem testinho). Por isso, foquem em trazer dúvidas, pois, pelo visto dia 23/10, são muitas.  |
+| 4.2.5  |  todos | todos  | 6/11   | Revisar com integrais indefinidas e treinar para revisão em sala na dia 13/11.  |
+| [LISTA](https://antmelo.github.io/files/ZZS-CAL1-QS.pdf){: .btn}  |   |   | 11/11   |  Bônus: lista com todo o conteúdo da segunda avaliação bimestral com respostas.  |
+
+![](https://media1.tenor.com/m/ctx-Bq2LBcIAAAAC/bar100r.gif)
 
 ## Respostas rápidas da última atividade em sala
 
