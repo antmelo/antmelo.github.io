@@ -55,21 +55,28 @@ que está disponível em versão preliminar para [Download Aqui](https://reposit
 | [LISTA](https://antmelo.github.io/files/ZZS-CAL1-QS.pdf){: .btn}  |   |   | 11/11   |  Bônus: lista com todo o conteúdo da segunda avaliação bimestral com respostas.  |
 | 5.1.1  |  todos | todos  | 19/11   | Revisar com integrais definidas e treinar para revisão em sala na dia 27/11.  |
 
-![](https://media1.tenor.com/m/ctx-Bq2LBcIAAAAC/bar100r.gif)
 
 ## Respostas rápidas da última atividade em sala ATUALIZADO!
 
 
  $\int \left(\sqrt{x}+ \frac{3}{\sqrt{x}}\right)\; dx$ 
- Como $\int \left(\sqrt{x} \; dx = \frac{2x^\frac{3}{2}}{3} +C$, se você lembra como chegamos nesse resultado, a outra parte segue a mesma ideia: $\sqrt{x} = x^\frac{1}{2} \Rightarrow \frac{1}{\sqrt{x}} = x^-\frac{1}{2}$ e daí, integrando pela Regra da Potência, temos $\int x^-\frac{1}{2} \; dx = 2x^\frac{1}{2} + C = 2\sqrt{x} +C$.
+ 
+ Como $\int \sqrt{x} \; dx = \frac{2x^\frac{3}{2}}{3} +C$, se você lembra como chegamos nesse resultado, a outra parte segue a mesma ideia: $\sqrt{x} = x^\frac{1}{2} \Rightarrow \frac{1}{\sqrt{x}} = x^{-\frac{1}{2}}$ e daí, integrando pela Regra da Potência, temos $\int x^{-\frac{1}{2}} \; dx = 2x^\frac{1}{2} + C = 2\sqrt{x} +C$.
 
  Juntando tudo:  $\int \left(\sqrt{x}+ \frac{3}{\sqrt{x}}\right)\; dx = \frac{2x^\frac{3}{2}}{3} + 6\sqrt{x} +C $. 
 
  $\int (e^{2t}+t^{2e})\; dt$
 
+ Essa é fácil:  $\int (e^{2t}+t^{2e})\; dt = \frac{e^{2t}}{2} + \frac{t^{2e+1}}{2e+1} +C$ (Verifique!)
+
  $\int_{0}^{1} (2 +u +2u^2+e^u ) \; du$
 
- $\int_{0}^{\pi} (\cos(4x) - \sin(2x))  \; dx
+ Pelo TFC, temos $\int_{0}^{1} (2 +u +2u^2+e^u ) \; du = 2u +\frac{u^2}{2}+\frac{2u^3}{3}+e^u \bigg|_0^1 = 2 + \frac{1}{2} +\frac{2}{3} + e -1 = \frac{13}{6} + e$. 
+
+ $\int_{0}^{\pi} (\cos(4x) - \sin(2x))  \; dx$
+
+ Calculando as primitivas, temos  $\int_{0}^{\pi} (\cos(4x) - \sin(2x))  \; dx =  \frac{\sin(4x)}{4} + \frac{\cos(2x)}{2} \bigg|_0^\pi$.
+Conforme mencionado na página 28 do livro (verifique!) as funções seno e cosseno se repetem a cada 2𝜋 (processo conhecido como Redução à Primeira Volta), temos que $\frac{\sin(4x)}{4} + \frac{\cos(2x)}{2} \bigg|_0^\pi = \frac{\sin(4\pi)}{4} + \frac{\cos(2\pi)}{2} - \left(\frac{\sin(0)}{4} + \frac{\cos(0)}{2} \right) = \frac{\sin(0)}{4} -\frac{\sin(0)}{4}  + \frac{\cos(0)}{2} - \frac{\cos(0)}{2} = 0$. (Para visualizar isso, clique [aqui](https://www.wolframalpha.com/input?i=int_%7B0%7D%5E%7B%5Cpi%7D+%28%5Ccos%284x%29+-+%5Csin%282x%29%29++dx). )
 
 ## Respostas rápidas da última atividade em sala
 
