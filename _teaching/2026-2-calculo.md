@@ -59,7 +59,7 @@ que está disponível em versão preliminar para [Download Aqui](https://reposit
 ## Respostas rápidas da última atividade em sala ATUALIZADO!
 
  <div class="btn--light-outline">
- $\int \left(\sqrt{x}+ \frac{3}{\sqrt{x}}\right)\; dx$  <br>
+ $\int \left(\sqrt{x}+ \frac{3}{\sqrt{x}}\right)\; dx$  <br> <br>
  
  Como $\int \sqrt{x} \; dx = \frac{2x^\frac{3}{2}}{3} +C$, se você lembra como chegamos nesse resultado, a outra parte segue a mesma ideia: $\sqrt{x} = x^\frac{1}{2} \Rightarrow \frac{1}{\sqrt{x}} = x^{-\frac{1}{2}}$ e daí, integrando pela Regra da Potência, temos $\int x^{-\frac{1}{2}} \; dx = 2x^\frac{1}{2} + C = 2\sqrt{x} +C$.
 
@@ -67,19 +67,19 @@ que está disponível em versão preliminar para [Download Aqui](https://reposit
  </div> <br>
 
  <div class="btn--light-outline">
- $\int (e^{2t}+t^{2e})\; dt$ <br>
+ $\int (e^{2t}+t^{2e})\; dt$ <br> <br>
 
  Essa é fácil:  $\int (e^{2t}+t^{2e})\; dt = \frac{e^{2t}}{2} + \frac{t^{2e+1}}{2e+1} +C$ (Verifique!)
 </div> <br>
 
  <div class="btn--light-outline">
- $\int_{0}^{1} (2 +u +2u^2+e^u ) \; du$ <br>
+ $\int_{0}^{1} (2 +u +2u^2+e^u ) \; du$ <br> <br>
 
  Pelo TFC, temos $\int_{0}^{1} (2 +u +2u^2+e^u ) \; du = 2u +\frac{u^2}{2}+\frac{2u^3}{3}+e^u \bigg\vert_0^1 = 2 + \frac{1}{2} +\frac{2}{3} + e -1 = \frac{13}{6} + e$. 
  </div> <br>
 
  <div class="btn--light-outline">
- $\int_{0}^{\pi} (\cos(4x) - \sin(2x))  \; dx$ <br>
+ $\int_{0}^{\pi} (\cos(4x) - \sin(2x))  \; dx$ <br> <br>
 
  Calculando as primitivas, temos  $\int_{0}^{\pi} (\cos(4x) - \sin(2x))  \; dx =  \frac{\sin(4x)}{4} + \frac{\cos(2x)}{2} \bigg\vert_0^\pi$.
 Conforme mencionado na página 28 do livro (verifique!) as funções seno e cosseno se repetem a cada $2\pi$ (processo conhecido como Redução à Primeira Volta), temos que $\frac{\sin(4x)}{4} + \frac{\cos(2x)}{2} \bigg\vert_0^\pi = \frac{\sin(4\pi)}{4} + \frac{\cos(2\pi)}{2} - \left(\frac{\sin(0)}{4} + \frac{\cos(0)}{2} \right) = \frac{\sin(0)}{4} -\frac{\sin(0)}{4}  + \frac{\cos(0)}{2} - \frac{\cos(0)}{2} = 0$. 
