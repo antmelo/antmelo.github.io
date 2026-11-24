@@ -67,23 +67,24 @@ que está disponível em versão preliminar para [Download Aqui](https://reposit
  </div> <br>
 
  <div class="btn--light-outline">
- $\int (e^{2t}+t^{2e})\; dt$ ---
+ $\int (e^{2t}+t^{2e})\; dt$ <br>
 
  Essa é fácil:  $\int (e^{2t}+t^{2e})\; dt = \frac{e^{2t}}{2} + \frac{t^{2e+1}}{2e+1} +C$ (Verifique!)
 </div> <br>
 
  <div class="btn--light-outline">
- $\int_{0}^{1} (2 +u +2u^2+e^u ) \; du$ ---
+ $\int_{0}^{1} (2 +u +2u^2+e^u ) \; du$ <br>
 
  Pelo TFC, temos $\int_{0}^{1} (2 +u +2u^2+e^u ) \; du = 2u +\frac{u^2}{2}+\frac{2u^3}{3}+e^u \bigg\vert_0^1 = 2 + \frac{1}{2} +\frac{2}{3} + e -1 = \frac{13}{6} + e$. 
  </div> <br>
 
  <div class="btn--light-outline">
- $\int_{0}^{\pi} (\cos(4x) - \sin(2x))  \; dx$ ---
+ $\int_{0}^{\pi} (\cos(4x) - \sin(2x))  \; dx$ <br>
 
  Calculando as primitivas, temos  $\int_{0}^{\pi} (\cos(4x) - \sin(2x))  \; dx =  \frac{\sin(4x)}{4} + \frac{\cos(2x)}{2} \bigg\vert_0^\pi$.
-Conforme mencionado na página 28 do livro (verifique!) as funções seno e cosseno se repetem a cada 2𝜋 (processo conhecido como Redução à Primeira Volta), temos que $\frac{\sin(4x)}{4} + \frac{\cos(2x)}{2} \bigg\vert_0^\pi = \frac{\sin(4\pi)}{4} + \frac{\cos(2\pi)}{2} - \left(\frac{\sin(0)}{4} + \frac{\cos(0)}{2} \right) = \frac{\sin(0)}{4} -\frac{\sin(0)}{4}  + \frac{\cos(0)}{2} - \frac{\cos(0)}{2} = 0$. (Para visualizar isso, clique [aqui](https://www.wolframalpha.com/input?i=int_%7B0%7D%5E%7B%5Cpi%7D+%28%5Ccos%284x%29+-+%5Csin%282x%29%29++dx). )
+Conforme mencionado na página 28 do livro (verifique!) as funções seno e cosseno se repetem a cada 2𝜋 (processo conhecido como Redução à Primeira Volta), temos que $\frac{\sin(4x)}{4} + \frac{\cos(2x)}{2} \bigg\vert_0^\pi = \frac{\sin(4\pi)}{4} + \frac{\cos(2\pi)}{2} - \left(\frac{\sin(0)}{4} + \frac{\cos(0)}{2} \right) = \frac{\sin(0)}{4} -\frac{\sin(0)}{4}  + \frac{\cos(0)}{2} - \frac{\cos(0)}{2} = 0$. 
 </div>
+(Para visualizar isso, clique [aqui](https://www.wolframalpha.com/input?i=int_%7B0%7D%5E%7B%5Cpi%7D+%28%5Ccos%284x%29+-+%5Csin%282x%29%29++dx). )
 
 ## Respostas rápidas da última atividade em sala
 
