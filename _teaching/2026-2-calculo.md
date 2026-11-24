@@ -53,8 +53,23 @@ que está disponível em versão preliminar para [Download Aqui](https://reposit
 | 4.1.8  |  todos | todos  | 25/10   | Revisar com Máximos e Mínimos e treinar para revisão em sala na dia 6/11 (sem testinho). Por isso, foquem em trazer dúvidas, pois, pelo visto dia 23/10, são muitas.  |
 | 4.2.5  |  todos | todos  | 6/11   | Revisar com integrais indefinidas e treinar para revisão em sala na dia 13/11.  |
 | [LISTA](https://antmelo.github.io/files/ZZS-CAL1-QS.pdf){: .btn}  |   |   | 11/11   |  Bônus: lista com todo o conteúdo da segunda avaliação bimestral com respostas.  |
+| 5.1.1  |  todos | todos  | 19/11   | Revisar com integrais definidas e treinar para revisão em sala na dia 27/11.  |
 
 ![](https://media1.tenor.com/m/ctx-Bq2LBcIAAAAC/bar100r.gif)
+
+## Respostas rápidas da última atividade em sala ATUALIZADO!
+
+
+ $\int \left(\sqrt{x}+ \frac{3}{\sqrt{x}}\right)\; dx$ 
+ Como $\int \left(\sqrt{x} \; dx = \frac{2x^\frac{3}{2}}{3} +C$, se você lembra como chegamos nesse resultado, a outra parte segue a mesma ideia: $\sqrt{x} = x^\frac{1}{2} \Rightarrow \frac{1}{\sqrt{x}} = x^-\frac{1}{2}$ e daí, integrando pela Regra da Potência, temos $\int x^-\frac{1}{2} \; dx = 2x^\frac{1}{2} + C = 2\sqrt{x} +C$.
+
+ Juntando tudo:  $\int \left(\sqrt{x}+ \frac{3}{\sqrt{x}}\right)\; dx = \frac{2x^\frac{3}{2}}{3} + 6\sqrt{x} +C $. 
+
+ $\int (e^{2t}+t^{2e})\; dt$
+
+ $\int_{0}^{1} (2 +u +2u^2+e^u ) \; du$
+
+ $\int_{0}^{\pi} (\cos(4x) - \sin(2x))  \; dx
 
 ## Respostas rápidas da última atividade em sala
 
