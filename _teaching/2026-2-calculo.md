@@ -59,7 +59,7 @@ que está disponível em versão preliminar para [Download Aqui](https://reposit
 ## Respostas rápidas da última atividade em sala ATUALIZADO!
 
  <div class="btn--light-outline">
- $\int \left(\sqrt{x}+ \frac{3}{\sqrt{x}}\right)\; dx$  ---
+ $\int \left(\sqrt{x}+ \frac{3}{\sqrt{x}}\right)\; dx$  <br>
  
  Como $\int \sqrt{x} \; dx = \frac{2x^\frac{3}{2}}{3} +C$, se você lembra como chegamos nesse resultado, a outra parte segue a mesma ideia: $\sqrt{x} = x^\frac{1}{2} \Rightarrow \frac{1}{\sqrt{x}} = x^{-\frac{1}{2}}$ e daí, integrando pela Regra da Potência, temos $\int x^{-\frac{1}{2}} \; dx = 2x^\frac{1}{2} + C = 2\sqrt{x} +C$.
 
@@ -82,7 +82,7 @@ que está disponível em versão preliminar para [Download Aqui](https://reposit
  $\int_{0}^{\pi} (\cos(4x) - \sin(2x))  \; dx$ <br>
 
  Calculando as primitivas, temos  $\int_{0}^{\pi} (\cos(4x) - \sin(2x))  \; dx =  \frac{\sin(4x)}{4} + \frac{\cos(2x)}{2} \bigg\vert_0^\pi$.
-Conforme mencionado na página 28 do livro (verifique!) as funções seno e cosseno se repetem a cada 2𝜋 (processo conhecido como Redução à Primeira Volta), temos que $\frac{\sin(4x)}{4} + \frac{\cos(2x)}{2} \bigg\vert_0^\pi = \frac{\sin(4\pi)}{4} + \frac{\cos(2\pi)}{2} - \left(\frac{\sin(0)}{4} + \frac{\cos(0)}{2} \right) = \frac{\sin(0)}{4} -\frac{\sin(0)}{4}  + \frac{\cos(0)}{2} - \frac{\cos(0)}{2} = 0$. 
+Conforme mencionado na página 28 do livro (verifique!) as funções seno e cosseno se repetem a cada $2\pi$ (processo conhecido como Redução à Primeira Volta), temos que $\frac{\sin(4x)}{4} + \frac{\cos(2x)}{2} \bigg\vert_0^\pi = \frac{\sin(4\pi)}{4} + \frac{\cos(2\pi)}{2} - \left(\frac{\sin(0)}{4} + \frac{\cos(0)}{2} \right) = \frac{\sin(0)}{4} -\frac{\sin(0)}{4}  + \frac{\cos(0)}{2} - \frac{\cos(0)}{2} = 0$. 
 </div>
 (Para visualizar isso, clique [aqui](https://www.wolframalpha.com/input?i=int_%7B0%7D%5E%7B%5Cpi%7D+%28%5Ccos%284x%29+-+%5Csin%282x%29%29++dx). )
 
